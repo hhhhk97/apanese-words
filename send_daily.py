@@ -1,10 +1,10 @@
 import json
 import os
 import datetime
-import urllib.request
+import requests
 
 WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")
-START_DATE = datetime.date(2026, 5, 20)  # 오늘부터 시작
+START_DATE = datetime.date(2026, 5, 20)
 
 with open("words_data.json", encoding="utf-8") as f:
     all_days = json.load(f)
@@ -28,13 +28,9 @@ embed = {
     "footer": {"text": f"총 {len(all_days)}일 중 {day_index+1}일째"}
 }
 
-payload = json.dumps({"embeds": [embed]}).encode("utf-8")
-req = urllib.request.Request(
-    WEBHOOK_URL,
-    data=payload,
-    headers={"Content-Type": "application/json"},
-    method="POST"
-)
-
-with urllib.request.urlopen(req) as res:
-    print(f"✅ 전송 완료! 상태코드: {res.status}")
+res = requests.post(WEBHOOK_URL, json={"embeds": [embed]})
+print(f"상태코드: {res.status_code}")
+if res.status_code not in (200, 204):
+    print(f"에러: {res.text}")
+    exit(1)
+print("✅ 전송 완료!")
