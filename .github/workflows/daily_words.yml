@@ -1,0 +1,18 @@
+name: 일본어 단어 매일 발송
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 매일 오전 9시 KST (UTC 00:00)
+  workflow_dispatch:       # 수동 실행 버튼
+
+jobs:
+  send-words:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 코드 가져오기
+        uses: actions/checkout@v4
+
+      - name: Python 실행
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python send_daily.py
