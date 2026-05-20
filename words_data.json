@@ -1,0 +1,4042 @@
+[
+  [
+    {
+      "word_line": "色々(いろいろ (이로이로)) : 여러가지",
+      "sentence_jp": "色々な料理を作りました。",
+      "romanization": "이로이로나 료-리오 츠쿠리마시타.",
+      "sentence_kr": "여러 가지 음식을 만들었어요."
+    },
+    {
+      "word_line": "歌(うた (우타)) : 노래",
+      "sentence_jp": "歌を歌うのが好きです。",
+      "romanization": "우타오 우타우노가 스키데스.",
+      "sentence_kr": "노래하는 걸 좋아해요."
+    },
+    {
+      "word_line": "海(うみ (우미)) : 바다",
+      "sentence_jp": "夏は海で泳ぐのが好きです。",
+      "romanization": "나츠와 우미데 오요구노가 스키데스.",
+      "sentence_kr": "여름에는 바다에서 수영하는 걸 좋아해요."
+    }
+  ],
+  [
+    {
+      "word_line": "売る(うる (우루)) : 팔다",
+      "sentence_jp": "この店では古本を売っています。",
+      "romanization": "코노 미세데와 후루이 홍오 웃테이마스.",
+      "sentence_kr": "이 가게에서는 오래된 책(헌책)을 팔고 있어요."
+    },
+    {
+      "word_line": "うるさい(うるさい (우루사이)) : 시끄럽다",
+      "sentence_jp": "隣の部屋、うるさいですね。",
+      "romanization": "토나리노 헤야, 우루사이데스네.",
+      "sentence_kr": "옆 방 시끄럽네요."
+    },
+    {
+      "word_line": "映画館(えいがかん (에-가칸)) : 영화관",
+      "sentence_jp": "映画館で映画を観るのが楽しみです。",
+      "romanization": "에-가칸데 에-가오 미루노가 타노시미데스.",
+      "sentence_kr": "영화관에서 영화를 보는 게 기대돼요."
+    }
+  ],
+  [
+    {
+      "word_line": "英語(えいご (에-고)) : 영어",
+      "sentence_jp": "英語を勉強しています。",
+      "romanization": "에-고오 벤쿄-시테이마스.",
+      "sentence_kr": "영어를 공부하고 있어요."
+    },
+    {
+      "word_line": "駅(えき (에키)) : 역, 정거장",
+      "sentence_jp": "駅に着きました。",
+      "romanization": "에키니 츠키마시타.",
+      "sentence_kr": "역에 도착했어요."
+    },
+    {
+      "word_line": "鉛筆(えんぴつ (엠피츠)) : 연필",
+      "sentence_jp": "鉛筆を貸してくれますか？",
+      "romanization": "엔피츠오 카시테 쿠레마스카?",
+      "sentence_kr": "연필 좀 빌려주실 수 있나요?"
+    }
+  ],
+  [
+    {
+      "word_line": "おいしい(おいしい (오이시-)) : 맛있다",
+      "sentence_jp": "このラーメンはとてもおいしいです",
+      "romanization": "코노 라-멘와 토테모 오이시-데스",
+      "sentence_kr": "이 라멘은 정말 맛있어요"
+    },
+    {
+      "word_line": "多い(おおい (오오이)) : 많다",
+      "sentence_jp": "人が多すぎて歩けません。",
+      "romanization": "히토가 오오스기테 아루케마셍.",
+      "sentence_kr": "사람이 너무 많아서 못 걷겠어요."
+    },
+    {
+      "word_line": "お菓子(おかし (오카시)) : 과자",
+      "sentence_jp": "お菓子を買ってきました。",
+      "romanization": "오카시오 캇테 키마시타.",
+      "sentence_kr": "과자를 사왔어요."
+    }
+  ],
+  [
+    {
+      "word_line": "起きる(おきる (오키루)) : 일어나다",
+      "sentence_jp": "毎朝、6時に起きます。",
+      "romanization": "마이아사, 로쿠지니 오키마스.",
+      "sentence_kr": "매일 아침 6시에 일어나요."
+    },
+    {
+      "word_line": "置く(おく (오쿠)) : 두다",
+      "sentence_jp": "本をテーブルに置いといてください。",
+      "romanization": "홍오 테-부루니 오이토이테 쿠다사이.",
+      "sentence_kr": "책을 테이블에 올려두세요"
+    },
+    {
+      "word_line": "お酒(おさけ (오사케)) : 술",
+      "sentence_jp": "お酒を飲みすぎると体に良くないです。",
+      "romanization": "오사케오 노미스기루토 카라다니 요쿠나이데스.",
+      "sentence_kr": "술을 너무 마시면 몸에 좋지 않아요."
+    }
+  ],
+  [
+    {
+      "word_line": "お腹(おなか (오나카)) : (신체) 배",
+      "sentence_jp": "お腹が痛いです。",
+      "romanization": "오나카가 이타이데스.",
+      "sentence_kr": "배가 아파요."
+    },
+    {
+      "word_line": "同じ(おなじ (오나지)) : 같은",
+      "sentence_jp": "同じ学校に通っています。",
+      "romanization": "오나지 각코-니 카욧테이마스.",
+      "sentence_kr": "같은 학교에 다니고 있어요."
+    },
+    {
+      "word_line": "お姉さん(おねえさん (오네-상)) : 누나, 언니",
+      "sentence_jp": "お姉さんはどこに行きましたか？",
+      "romanization": "오네-상와 도코니 이키마시타카?",
+      "sentence_kr": "언니는 어디 갔나요?"
+    }
+  ],
+  [
+    {
+      "word_line": "おばあさん(おばあさん (오바-상)) : 할머니",
+      "sentence_jp": "おばあさんと一緒にお菓子を食べます。",
+      "romanization": "오바-상토 잇쇼니 오카시오 타베마스.",
+      "sentence_kr": "할머니와 함께 과자를 먹어요."
+    },
+    {
+      "word_line": "おばさん(おばさん (오바상)) : 아줌마, 아주머니, 이모, 고모",
+      "sentence_jp": "おばさんが料理をしています。",
+      "romanization": "오바상가 료-리오 시테이마스.",
+      "sentence_kr": "이모가 요리를 하고 있어요."
+    },
+    {
+      "word_line": "お風呂(おふろ (오후로)) : 목욕, 욕실",
+      "sentence_jp": "お風呂に入った後、寝ましょう。",
+      "romanization": "오후로니 하잇타 아토, 네마쇼-.",
+      "sentence_kr": "목욕하고 나서 자요."
+    }
+  ],
+  [
+    {
+      "word_line": "お弁当(おべんとう (오벤토-)) : 도시락",
+      "sentence_jp": "お弁当を忘れました！",
+      "romanization": "오벤토-오 와스레마시타!",
+      "sentence_kr": "도시락을 깜빡했어요!"
+    },
+    {
+      "word_line": "重い(おもい (오모이)) : 무겁다",
+      "sentence_jp": "この荷物、重くないですか？",
+      "romanization": "코노 니모츠, 오모쿠나이데스카?",
+      "sentence_kr": "이 짐 무겁지 않으세요?"
+    },
+    {
+      "word_line": "面白い(おもしろい (오모시로이)) : 재밌다",
+      "sentence_jp": "この映画は面白いですね。",
+      "romanization": "코노 에-가와 오모시로이데스네.",
+      "sentence_kr": "이 영화 재밌네요."
+    }
+  ],
+  [
+    {
+      "word_line": "外国人(がいこくじん (가이코쿠진)) : 외국인",
+      "sentence_jp": "外国人の友達ができました。",
+      "romanization": "가이코쿠진노 토모다치가 데키마시타.",
+      "sentence_kr": "외국인 친구가 생겼어요."
+    },
+    {
+      "word_line": "会社(かいしゃ (카이샤)) : 회사",
+      "sentence_jp": "会社はどこですか？",
+      "romanization": "카이샤와 도코데스카?",
+      "sentence_kr": "회사는 어디에요?"
+    },
+    {
+      "word_line": "降りる(おりる (오리루)) : (탈것에서) 내리다",
+      "sentence_jp": "バスを降りたら、歩きましょう。",
+      "romanization": "바스오 오리타라, 아루키마쇼-.",
+      "sentence_kr": "버스에서 내리면 걸어가죠."
+    }
+  ],
+  [
+    {
+      "word_line": "書く(かく (카쿠)) : 쓰다",
+      "sentence_jp": "昨日手紙を書きました。",
+      "romanization": "키노- 테가미오 카키마시타.",
+      "sentence_kr": "어제 편지를 썼어요."
+    },
+    {
+      "word_line": "先(さき (사키)) : 앞, 먼저",
+      "sentence_jp": "先に行っといてください。",
+      "romanization": "사키니 잇토이테 쿠다사이.",
+      "sentence_kr": "먼저 가 계세요."
+    },
+    {
+      "word_line": "傘(かさ (카사)) : 우산",
+      "sentence_jp": "雨が降るから、傘を持って行きましょう。",
+      "romanization": "아메가 후루카라, 카사오 못테 이키마쇼-.",
+      "sentence_kr": "비가 오니 우산을 가지고 가죠."
+    }
+  ],
+  [
+    {
+      "word_line": "貸す(かす (카스)) : 빌려주다",
+      "sentence_jp": "この本を貸してもいいですか？",
+      "romanization": "코노 홍오 카시테모 이이데스카?",
+      "sentence_kr": "이 책을 빌려줘도 될까요?"
+    },
+    {
+      "word_line": "風邪(かぜ (카제)) : 감기",
+      "sentence_jp": "風邪を引いてしまいました。",
+      "romanization": "카제오 히이테 시마이마시타.",
+      "sentence_kr": "감기에 걸려 버렸어요."
+    },
+    {
+      "word_line": "家族(かぞく (카조쿠)) : 가족",
+      "sentence_jp": "家族と一緒にご飯を食べるのが好きです。",
+      "romanization": "카조쿠토 잇쇼니 고항오 타베루노가 스키데스.",
+      "sentence_kr": "가족과 함께 밥 먹는 게 좋아요."
+    }
+  ],
+  [
+    {
+      "word_line": "かばん(かばん (카방)) : 가방",
+      "sentence_jp": "かばんの中に財布が入っています。",
+      "romanization": "카방노 나카니 사이후가 하잇테이마스.",
+      "sentence_kr": "가방 안에 지갑이 들어 있어요."
+    },
+    {
+      "word_line": "辛い(からい (카라이)) : 맵다",
+      "sentence_jp": "この料理、辛くて食べられません。",
+      "romanization": "코노 료-리, 카라쿠테 타베라레마셍.",
+      "sentence_kr": "이 요리는 너무 매워서 못 먹겠어요."
+    },
+    {
+      "word_line": "借りる(かりる (카리루)) : 빌리다",
+      "sentence_jp": "本を借りてもいいですか？後で返します。",
+      "romanization": "홍오 카리테모 이이데스카? 아토데 카에시마스.",
+      "sentence_kr": "책 좀 빌려도 될까요? 나중에 돌려드릴게요."
+    }
+  ],
+  [
+    {
+      "word_line": "軽い(かるい (카루이)) : 가볍다",
+      "sentence_jp": "このバッグは軽いですね。",
+      "romanization": "코노 박구와 카루이데스네.",
+      "sentence_kr": "이 가방은 가볍네요."
+    },
+    {
+      "word_line": "黄色い(きいろい (키이로이)) : 노랗다",
+      "sentence_jp": "黄色い花が咲いていますね。",
+      "romanization": "키이로이 하나가 사이테 이마스네.",
+      "sentence_kr": "노란 꽃이 피어 있네요."
+    },
+    {
+      "word_line": "聞く(きく (키쿠)) : 듣다, 묻다",
+      "sentence_jp": "話を聞きます。",
+      "romanization": "하나시오 키키마스.",
+      "sentence_kr": "이야기를 들어요."
+    }
+  ],
+  [
+    {
+      "word_line": "汚い(きたない (키타나이)) : 더럽다",
+      "sentence_jp": "部屋が汚いから掃除しないといけません。",
+      "romanization": "헤야가 키타나이카라 소-지시나이토 이케마셍.",
+      "sentence_kr": "방이 더러워서 청소해야 해요."
+    },
+    {
+      "word_line": "喫茶店(きっさてん (킷사텡)) : 카페, 찻집",
+      "sentence_jp": "喫茶店でお茶を飲みましょう。",
+      "romanization": "킷사텐데 오차오 노미마쇼-.",
+      "sentence_kr": "카페에서 차 마셔요."
+    },
+    {
+      "word_line": "昨日(きのう (키노-)) : 어제",
+      "sentence_jp": "昨日、学校で猫を見ました。",
+      "romanization": "키노-, 각코-데 네코오 미마시타",
+      "sentence_kr": "어제 학교에서 고양이를 봤어요."
+    }
+  ],
+  [
+    {
+      "word_line": "牛乳(ぎゅうにゅう (규-뉴-)) : 우유",
+      "sentence_jp": "朝は牛乳を飲むのが習慣です。",
+      "romanization": " 아사와 규-뉴-오 노무노가 슈-칸데스.",
+      "sentence_kr": "아침에는 우유를 마시는 것이 습관이에요."
+    },
+    {
+      "word_line": "銀行(ぎんこう (깅코-)) : 은행",
+      "sentence_jp": "銀行でお金を引き出しました。",
+      "romanization": "긴코-데 오카네오 히키다시마시타.",
+      "sentence_kr": "은행에서 돈을 찾아왔어요."
+    },
+    {
+      "word_line": "果物(くだもの (쿠다모노)) : 과일",
+      "sentence_jp": "新鮮な果物を買います。",
+      "romanization": "신센나 쿠다모노오 카이마스.",
+      "sentence_kr": "신선한 과일을 삽니다."
+    }
+  ],
+  [
+    {
+      "word_line": "靴下(くつした (쿠츠시타)) : 양말",
+      "sentence_jp": "靴下を履いて外に行きましょう。",
+      "romanization": "쿠츠시타오 하이테 소토니 이키마쇼-.",
+      "sentence_kr": "양말 신고 밖에 나가죠."
+    },
+    {
+      "word_line": "暗い(くらい (쿠라이)) : 어둡다",
+      "sentence_jp": "部屋が暗くて見えません。",
+      "romanization": "헤야가 쿠라쿠테 미에마셍.",
+      "sentence_kr": "방이 어두워서 잘 안 보여요."
+    },
+    {
+      "word_line": "結婚(けっこん (켓콘)) : 결혼",
+      "sentence_jp": "結婚式は来月です。",
+      "romanization": "켓콘시키와 라이게츠데스.",
+      "sentence_kr": "결혼식은 다음 달이에요."
+    }
+  ],
+  [
+    {
+      "word_line": "公園(こうえん (코-엔)) : 공원",
+      "sentence_jp": "今日は公園で散歩しましょう。",
+      "romanization": "쿄-와 코-엔데 산포시마쇼-.",
+      "sentence_kr": "오늘은 공원에서 산책하죠."
+    },
+    {
+      "word_line": "午後(ごご (고고)) : 오후",
+      "sentence_jp": "午後から仕事があります。",
+      "romanization": "고고카라 시고토가 아리마스.",
+      "sentence_kr": "오후에 일이 있어요."
+    },
+    {
+      "word_line": "午前(ごぜん (고젠)) : 오전",
+      "sentence_jp": "午前中に会議があります。",
+      "romanization": "고젠츄-니 카이기가 아리마스.",
+      "sentence_kr": "오전에 회의가 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "子供 (こども (코도모) : (어린)아이, 자식",
+      "sentence_jp": "子供たちは遊んでいます。",
+      "romanization": "코도모타치와 아손데이마스.",
+      "sentence_kr": "아이들은 놀고 있어요."
+    },
+    {
+      "word_line": "ご飯 (ごはん (고항) : 밥, 식사",
+      "sentence_jp": "ご飯を食べに行きましょうか。",
+      "romanization": "고항오 타베니 이키마쇼-카.",
+      "sentence_kr": "밥 먹으러 갈까요?"
+    },
+    {
+      "word_line": "困る (こまる (코마루) : 곤란하다, 난처하다",
+      "sentence_jp": "どうしていいか困っています。",
+      "romanization": "도-시테 이이카 코맛테이마스.",
+      "sentence_kr": "어떻게 해야 할지 난감해요."
+    }
+  ],
+  [
+    {
+      "word_line": "今月 (こんげつ / 콩게츠) : 이번 달",
+      "sentence_jp": "今月はお金が足りないです。",
+      "romanization": "콩게츠와 오카네가 타리나이데스.",
+      "sentence_kr": "이번 달은 돈이 부족해요."
+    },
+    {
+      "word_line": "今週 (こんしゅう / 콘슈-) : 이번 주",
+      "sentence_jp": "今週は忙しいので会えません。",
+      "romanization": "콘슈와 이소가시이노데 아에마셍.",
+      "sentence_kr": "이번 주는 바빠서 못 만나요."
+    },
+    {
+      "word_line": "財布 (さいふ / 사이후) : 지갑",
+      "sentence_jp": "財布を忘れてしまいました。",
+      "romanization": "사이후오 와스레테 시마이마시타.",
+      "sentence_kr": "지갑을 깜빡 했어요."
+    }
+  ],
+  [
+    {
+      "word_line": "魚 (さかな / 사카나) : 물고기, 생선",
+      "sentence_jp": "この川には魚がたくさんいます。",
+      "romanization": "코노 카와니와 사카나가 타쿠상 이마스",
+      "sentence_kr": "이 강에는 물고기가 많아요."
+    },
+    {
+      "word_line": "寒い (さむい / 사무이) : 춥다",
+      "sentence_jp": "今日は寒いですね。",
+      "romanization": "쿄-와 사무이데스네.",
+      "sentence_kr": "오늘은 춥네요."
+    },
+    {
+      "word_line": "散歩 (さんぽ / 산포) : 산책",
+      "sentence_jp": "朝は公園で散歩するのが好きです。",
+      "romanization": "아사와 코-엔데 산포스루노가 스키데스.",
+      "sentence_kr": "아침에 공원에서 산책하는 걸 좋아해요."
+    }
+  ],
+  [
+    {
+      "word_line": "薄い (うすい / 우스이) : 얇다, 연하다",
+      "sentence_jp": "スープ、薄くないですか？",
+      "romanization": "스-푸, 우스쿠나이데스카?",
+      "sentence_kr": "스프 싱겁지 않아요?"
+    },
+    {
+      "word_line": "撮る (とる / 토루) : (사진을) 찍다",
+      "sentence_jp": "写真を撮ってもいいですか？",
+      "romanization": "샤신오 톳테모 이이데스카?",
+      "sentence_kr": "사진 찍어도 돼요?"
+    },
+    {
+      "word_line": "友達 (ともだち / 토모다치) : 친구",
+      "sentence_jp": "友達と映画を見に行きます。",
+      "romanization": "토모다치토 에-가오 미니 이키마스.",
+      "sentence_kr": "친구랑 영화를 보러 갈 거에요."
+    }
+  ],
+  [
+    {
+      "word_line": "塩 (しお / 시오) : 소금",
+      "sentence_jp": "塩、取ってくれませんか？",
+      "romanization": "시오, 톳떼쿠레마센카?",
+      "sentence_kr": "소금 좀 집어줄래요?"
+    },
+    {
+      "word_line": "台所 (だいどころ / 다이도코로) : 부엌",
+      "sentence_jp": "台所で料理をしています。",
+      "romanization": "다이도코로데 료-리오 시테이마스.",
+      "sentence_kr": "부엌에서 요리하고 있어요."
+    },
+    {
+      "word_line": "犬 (いぬ / 이누) : (동물) 개",
+      "sentence_jp": "犬を飼っています。",
+      "romanization": "이누오 캇테이마스.",
+      "sentence_kr": "개를 키우고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "時間 (じかん / 지칸) : 시간",
+      "sentence_jp": "今、時間ありますか？",
+      "romanization": "이마, 지칸 아리마스카?",
+      "sentence_kr": "지금 시간 있어요?"
+    },
+    {
+      "word_line": "大変 (たいへん / 타이헨) : 매우, 대단히",
+      "sentence_jp": "今日は忙しくて大変ですね。",
+      "romanization": "쿄-와 이소가시쿠테 타이헨데스네.",
+      "sentence_kr": "오늘은 바쁘고 힘드네요."
+    },
+    {
+      "word_line": "上着 (うわぎ / 우와기) : 겉옷, 외투",
+      "sentence_jp": "寒いから上着を着ましょう。",
+      "romanization": "사무이카라 우와기오 키마쇼-.",
+      "sentence_kr": "추우니까 외투를 입어요."
+    }
+  ],
+  [
+    {
+      "word_line": "仕事 (しごと / 시고토) : 일, 업무",
+      "sentence_jp": "仕事が多くて大変です。",
+      "romanization": "시고토가 오오쿠테 타이헨데스",
+      "sentence_kr": "일이 많아서 큰일이에요."
+    },
+    {
+      "word_line": "高い (たかい / 타카이) : 높다, (키가) 크다",
+      "sentence_jp": "この店、高いですね。",
+      "romanization": "코노 미세, 타카이데스네.",
+      "sentence_kr": "이 가게, 비싸네요."
+    },
+    {
+      "word_line": "別れる (わかれる / 와카레루) : 헤어지다",
+      "sentence_jp": "彼とはもう別れました。",
+      "romanization": "카레토와 모- 와카레마시타.",
+      "sentence_kr": "그와는 이미 헤어졌어요."
+    }
+  ],
+  [
+    {
+      "word_line": "静か (しずか / 시즈카) : 조용(고요)한 상태",
+      "sentence_jp": "夜は静かですね。",
+      "romanization": "요루와 시즈카데스네.",
+      "sentence_kr": "밤은 조용하네요."
+    },
+    {
+      "word_line": "～だけ (～だけ / 다케) : -뿐",
+      "sentence_jp": "これだけでいいですか？",
+      "romanization": "코레다케데 이이데스카?",
+      "sentence_kr": "이것만으로 괜찮나요?"
+    },
+    {
+      "word_line": "飲む (のむ / 노무) : 마시다",
+      "sentence_jp": "お酒を飲みに行きましょう。",
+      "romanization": "오사케오 노미니 이키마쇼-.",
+      "sentence_kr": "술 마시러 가요."
+    }
+  ],
+  [
+    {
+      "word_line": "下 (した / 시타) : 아래, 밑",
+      "sentence_jp": "カバンは机の下にあります。",
+      "romanization": "카방와 츠쿠에노 시타니 아리마스.",
+      "sentence_kr": "가방은 책상 아래에 있어요."
+    },
+    {
+      "word_line": "出す (だす / 다스) : 내다, 꺼내다, 부치다",
+      "sentence_jp": "手紙を出してきました。",
+      "romanization": "테가미오 다시테 키마시타.",
+      "sentence_kr": "편지를 부치고 왔어요."
+    },
+    {
+      "word_line": "管理 (かんり / 칸리) : 관리",
+      "sentence_jp": "この建物の管理は誰がしていますか？",
+      "romanization": "코노 타테모노노 칸리와 다레가 시테이마스카?",
+      "sentence_kr": "이 건물의 관리는 누가 하고 있나요?"
+    }
+  ],
+  [
+    {
+      "word_line": "閉まる (しまる / 시마루) : 닫히다",
+      "sentence_jp": "ドアが閉まりますよ！",
+      "romanization": "도아가 시마리마스요!",
+      "sentence_kr": "문이 닫혀요!"
+    },
+    {
+      "word_line": "楽しい (たのしい / 타노시이) : 즐겁다",
+      "sentence_jp": "旅行は楽しかったです。",
+      "romanization": "료코-와 타노시캇타데스.",
+      "sentence_kr": "여행 즐거웠어요."
+    },
+    {
+      "word_line": "枯れる (かれる / 카레루) : 시들다",
+      "sentence_jp": "この花、枯れてしまいました。",
+      "romanization": "코노 하나, 카레테 시마이마시타.",
+      "sentence_kr": "이 꽃 시들어 버렸어요."
+    }
+  ],
+  [
+    {
+      "word_line": "閉める (しめる / 시메루) : 닫다",
+      "sentence_jp": "窓を閉めてくれますか？",
+      "romanization": "마도오 시메테 쿠레마스카?",
+      "sentence_kr": "창문 좀 닫아 주시겠어요?"
+    },
+    {
+      "word_line": "食べ物 (たべもの / 타베모노) : 먹을 것, 음식",
+      "sentence_jp": "美味しい食べ物が好きです。",
+      "romanization": "오이시이 타베모노가 스키데스.",
+      "sentence_kr": "맛있는 음식을 좋아해요."
+    },
+    {
+      "word_line": "招待 (しょうたい / 쇼-타이) : 초대",
+      "sentence_jp": "彼女をパーティーに招待しました。",
+      "romanization": "카노조오 파-티-니 쇼-타이시마시타.",
+      "sentence_kr": "그녀를 파티에 초대했어요."
+    }
+  ],
+  [
+    {
+      "word_line": "写真 (しゃしん / 샤신) : 사진",
+      "sentence_jp": "この写真はとてもきれいです。",
+      "romanization": "코노 샤신와 토테모 키레-데스.",
+      "sentence_kr": "이 사진은 정말 아름다워요."
+    },
+    {
+      "word_line": "卵 (たまご / 타마고) : 계란",
+      "sentence_jp": "卵を買いに行きましょう。",
+      "romanization": "타마고오 카이니 이키마쇼-.",
+      "sentence_kr": "계란 사러 가요."
+    },
+    {
+      "word_line": "ひげ (ひげ / 히게) : 수염",
+      "sentence_jp": "ひげを剃ったほうがいいです。",
+      "romanization": "히게오 솟타 호-가 이이데스.",
+      "sentence_kr": "수염을 면도하는 게 좋겠어요."
+    }
+  ],
+  [
+    {
+      "word_line": "宿題 (しゅくだい / 슈쿠다이) : 숙제",
+      "sentence_jp": "宿題はしましたか？",
+      "romanization": "슈쿠다이와 시마시타카?",
+      "sentence_kr": "숙제 했어요?"
+    },
+    {
+      "word_line": "誰 (だれ / 다레) : 누구",
+      "sentence_jp": "これは誰のバッグですか？",
+      "romanization": "코레와 다레노 박구데스카?",
+      "sentence_kr": "이 가방은 누구 거예요?"
+    },
+    {
+      "word_line": "夕飯 (ゆうはん / 유-한) : 저녁밥",
+      "sentence_jp": "今日の夕飯は寿司を食べます。",
+      "romanization": "쿄-노 유-한와 스시오 타베마스.",
+      "sentence_kr": "오늘 저녁은 초밥을 먹을 거에요."
+    }
+  ],
+  [
+    {
+      "word_line": "丈夫 (じょうぶ / 죠-부) : 튼튼함",
+      "sentence_jp": "この靴、丈夫ですね。",
+      "romanization": "코노 쿠츠, 죠-부데스네.",
+      "sentence_kr": "이 신발 튼튼하네요."
+    },
+    {
+      "word_line": "誕生日 (たんじょうび / 탄-죠-비) : 생일",
+      "sentence_jp": "明日は姉の誕生日です。",
+      "romanization": "아시타와 아네노 탄-죠-비데스.",
+      "sentence_kr": "내일은 언니의 생일이에요."
+    },
+    {
+      "word_line": "待つ (まつ / 마츠) : 기다리다",
+      "sentence_jp": "ここで待っています。",
+      "romanization": "코코데 맛테이마스.",
+      "sentence_kr": "여기서 기다릴게요."
+    }
+  ],
+  [
+    {
+      "word_line": "食堂 (しょくどう / 쇼쿠도-) : 식당",
+      "sentence_jp": "この会社には食堂がないです。",
+      "romanization": "코노 카이샤니와 쇼쿠도-가 나이데스.",
+      "sentence_kr": "이 회사에는 식당이 없어요."
+    },
+    {
+      "word_line": "小さい (ちいさい / 치이사이) : 작다",
+      "sentence_jp": "テレビの音が小さいです。",
+      "romanization": "테레비노 오토가 치이사이데스.",
+      "sentence_kr": "텔레비전 소리가 작아요."
+    },
+    {
+      "word_line": "固い, 堅い (かたい / 카타이) : 딱딱하다",
+      "sentence_jp": "このパン、硬くて食べにくいですね。",
+      "romanization": "코노 팡, 카타쿠테 타베니쿠이데스네.",
+      "sentence_kr": "이 빵은 딱딱해서 먹기 힘드네요."
+    }
+  ],
+  [
+    {
+      "word_line": "白い (しろい / 시로이) : 하얗다",
+      "sentence_jp": "白い雪が降ります。",
+      "romanization": "시로이 유키가 후리마스.",
+      "sentence_kr": "하얀 눈이 내려요."
+    },
+    {
+      "word_line": "近い (ちかい / 치카이) : 가깝다",
+      "sentence_jp": "駅はここから近いです。",
+      "romanization": "에키와 코코카라 치카이데스.",
+      "sentence_kr": "역은 여기서 가까워요."
+    },
+    {
+      "word_line": "髪の毛 (かみのけ / 카미노케) : 머리카락",
+      "sentence_jp": "髪の毛を切りに行きましょうか。",
+      "romanization": "카미노케오 키리니 이키마쇼-카.",
+      "sentence_kr": "머리 자르러 갈까요?"
+    }
+  ],
+  [
+    {
+      "word_line": "先月 (せんげつ / 센게츠) : 저번 달",
+      "sentence_jp": "先月、旅行に行ってきました。",
+      "romanization": "센게츠, 료코-니 이키마시타.",
+      "sentence_kr": "지난달에 여행 갔다 왔어요."
+    },
+    {
+      "word_line": "動物 (どうぶつ / 도-부츠) : 동물",
+      "sentence_jp": "動物園に行きましょうか。",
+      "romanization": "도-부츠엔니 이키마쇼-카.",
+      "sentence_kr": "동물원에 갈까요?"
+    },
+    {
+      "word_line": "飛ぶ (とぶ / 토부) : 날다",
+      "sentence_jp": "鳥が空を飛んでいます。",
+      "romanization": "토리가 소라오 톤데이마스.",
+      "sentence_kr": "새가 하늘을 날고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "先週 (せんしゅう / 센슈-) : 저번 주",
+      "sentence_jp": "先週のテスト、難しかったですね？",
+      "romanization": "센슈-노 테스토, 무즈카시캇타데스네?",
+      "sentence_kr": "지난 주 시험 어려웠죠?"
+    },
+    {
+      "word_line": "遠い (とおい / 토오이) : 멀다",
+      "sentence_jp": "ここから駅までは遠いですか？",
+      "romanization": "코코카라 에키마데와 토오이데스카?",
+      "sentence_kr": "여기서 역까지 먼가요?"
+    },
+    {
+      "word_line": "勤める (つとめる / 츠토메루) : 근무하다",
+      "sentence_jp": "彼は銀行に勤めています。",
+      "romanization": "카레와 긴코-니 츠토메테이마스.",
+      "sentence_kr": "그는 은행에서 일하고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "先生 (せんせい / 센-세-) : 선생님",
+      "sentence_jp": "先生、今日は休みだそうです。",
+      "romanization": "센세-, 쿄-와 야스미다소-데스.",
+      "sentence_kr": "선생님, 오늘 쉬신대요."
+    },
+    {
+      "word_line": "どこ (どこ / 도코) : 어디, 어느 곳",
+      "sentence_jp": "どこに行きたいですか？",
+      "romanization": "도코니 이키타이데스카?",
+      "sentence_kr": "어디에 가고 싶으세요?"
+    },
+    {
+      "word_line": "溶ける (とける / 토케루) : 녹다",
+      "sentence_jp": "雪が溶けています。",
+      "romanization": "유키가 토케테이마스.",
+      "sentence_kr": "눈이 녹고 있어요"
+    }
+  ],
+  [
+    {
+      "word_line": "そこ (そこ / 소코) : 그곳, 거기",
+      "sentence_jp": "そこに置いてくれますか？",
+      "romanization": "소코니 오이테 쿠레마스카?",
+      "sentence_kr": "저기 놓아 주시겠어요?"
+    },
+    {
+      "word_line": "図書館 (としょかん / 토쇼칸) : 도서관",
+      "sentence_jp": "静かな図書館で勉強します。",
+      "romanization": "시즈카나 토쇼칸데 벤쿄-시마스.",
+      "sentence_kr": "조용한 도서관에서 공부합니다."
+    },
+    {
+      "word_line": "通る (とおる / 토오루) : 통과하다, 지나가다",
+      "sentence_jp": "この道を通ると、駅があります。",
+      "romanization": "코노 미치오 토오루토, 에키가 아리마스.",
+      "sentence_kr": "이 길을 지나면 역이 나와요."
+    }
+  ],
+  [
+    {
+      "word_line": "外 (そと / 소토) : 밖, 바깥",
+      "sentence_jp": "外で遊びましょうか。",
+      "romanization": "소토데 아소비마쇼-카.",
+      "sentence_kr": "밖에서 놀까요?"
+    },
+    {
+      "word_line": "どなた (どなた / 도나타) : 누구",
+      "sentence_jp": "そちらの方はどなたですか？",
+      "romanization": "소치라노 카타와 도나타데스까?",
+      "sentence_kr": "저분은 누구신가요?"
+    },
+    {
+      "word_line": "解ける (とける / 토케루) : (문제가) 풀리다, 해결되다",
+      "sentence_jp": "この問題、やっと解けました。",
+      "romanization": "코노 몬다이, 얏토 토케마시타.",
+      "sentence_kr": "이 문제 드디어 풀었어요."
+    }
+  ],
+  [
+    {
+      "word_line": "そば (そば / 소바) : 옆, 곁",
+      "sentence_jp": "駅のそばにあります。",
+      "romanization": "에키노 소바니 아리마스.",
+      "sentence_kr": "역 옆에 있어요."
+    },
+    {
+      "word_line": "とても (とても / 토테모) : 매우, 도저히",
+      "sentence_jp": "今日はとても疲れました。",
+      "romanization": "쿄-와 토테모 츠카레마시타.",
+      "sentence_kr": "오늘 정말 피곤했어요."
+    },
+    {
+      "word_line": "怒鳴る (どなる / 도나루) : 고함치다, 호통치다",
+      "sentence_jp": "彼は怒鳴っていました。",
+      "romanization": "카레와 도낫테이마시타.",
+      "sentence_kr": "그는 고함치고 있었어요."
+    }
+  ],
+  [
+    {
+      "word_line": "祝日 (しゅくじつ / 슈쿠지츠) : 공휴일",
+      "sentence_jp": "このレストランは祝日にも営業していますか？",
+      "romanization": "코노 레스토란와 슈쿠지츠니모 에-교 시테이마스카?",
+      "sentence_kr": "이 식당은 공휴일에도 영업하나요?"
+    },
+    {
+      "word_line": "実力 (じつりょく / 지츠료쿠) : 실력",
+      "sentence_jp": "彼の実力は素晴らしいです。",
+      "romanization": "카레노 지츠료쿠와 스바라시이데스.",
+      "sentence_kr": "그의 실력은 훌륭해요."
+    },
+    {
+      "word_line": "応援 (おうえん / 오-엔) : 응원",
+      "sentence_jp": "彼を応援しています。",
+      "romanization": "카레오 오-엔 시테이마스.",
+      "sentence_kr": "그를 응원하고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "感覚 (かんかく / 칸카쿠) : 감각",
+      "sentence_jp": "この感覚はとても新しいです。",
+      "romanization": "코노 칸카쿠와 토테모 아타라시이데스.",
+      "sentence_kr": "이 감각은 정말 새롭습니다."
+    },
+    {
+      "word_line": "暑い (あつい / 아츠이) : 덥다",
+      "sentence_jp": "今日は暑いですね。",
+      "romanization": "쿄-와 아츠이데스네.",
+      "sentence_kr": "오늘은 덥네요."
+    },
+    {
+      "word_line": "盛んだ (さかんだ / 사칸다) : 활발하다",
+      "sentence_jp": "この町は観光が盛んです。",
+      "romanization": "코노 마치와 칸코-가 사칸데스.",
+      "sentence_kr": "이 마을은 관광이 활발해요."
+    }
+  ],
+  [
+    {
+      "word_line": "能力 (のうりょく / 노-료쿠) : 능력",
+      "sentence_jp": "私の日本語の能力はまだまだです。",
+      "romanization": "와타시노 니혼고노 노-료쿠와 마다마다데스.",
+      "sentence_kr": "제 일본어 능력은 아직 부족해요."
+    },
+    {
+      "word_line": "まだ (まだ / 마다) : 아직",
+      "sentence_jp": "まだチェックインしていません。",
+      "romanization": "마다 첵쿠인시테이마셍.",
+      "sentence_kr": "아직 체크인하지 않았어요."
+    },
+    {
+      "word_line": "詰める (つめる / 츠메루) : 채우다",
+      "sentence_jp": "スーツケースに服を詰めました。",
+      "romanization": "스-츠케-스니 후쿠오 츠메마시타.",
+      "sentence_kr": "캐리어에 옷을 채웠어요."
+    }
+  ],
+  [
+    {
+      "word_line": "景色 (けしき / 케시키) : 경치",
+      "sentence_jp": "山の景色がとてもきれいです。",
+      "romanization": "야마노 케시키가 토테모 키레이데스.",
+      "sentence_kr": "산의 경치가 정말 아름다워요."
+    },
+    {
+      "word_line": "流れる (ながれる / 나가레루) : 흐르다",
+      "sentence_jp": "川が静かに流れています。",
+      "romanization": "카와가 시즈카니 나가레테이마스.",
+      "sentence_kr": "강물이 조용히 흐르고 있어요."
+    },
+    {
+      "word_line": "つまらない (つまらない / 츠마라나이) : 지루한",
+      "sentence_jp": "この本はつまらないです。",
+      "romanization": "코노 홍와 츠마라나이데스.",
+      "sentence_kr": "이 책은 지루합니다."
+    }
+  ],
+  [
+    {
+      "word_line": "眺める (ながめる / 나가메루) : 바라보다",
+      "sentence_jp": "窓から景色を眺めています。",
+      "romanization": "마도카라 케시키오 나가메테이마스.",
+      "sentence_kr": "창문에서 경치를 바라보고 있어요."
+    },
+    {
+      "word_line": "近づく (ちかづく / 치카즈쿠) : 가까워지다",
+      "sentence_jp": "目的地が近づいてきました。",
+      "romanization": "모쿠테키치가 치카즈이테키마시타.",
+      "sentence_kr": "목적지가 가까워졌어요."
+    },
+    {
+      "word_line": "せっかく (せっかく / 섹카쿠) : 어렵게, 일부러",
+      "sentence_jp": "せっかくここまで来たので、写真を撮りましょう。",
+      "romanization": "섹카쿠 코코마데 키타노데, 샤신오 토리마쇼-.",
+      "sentence_kr": "어렵게 여기까지 왔으니, 사진을 찍어요"
+    }
+  ],
+  [
+    {
+      "word_line": "挟む (はさむ / 하사무) : 사이에 끼우다",
+      "sentence_jp": "パスポートを本に挟んでおきました。",
+      "romanization": "파스포-토오 혼니 하산데 오키마시타.",
+      "sentence_kr": "여권을 책 사이에 끼워 두었습니다."
+    },
+    {
+      "word_line": "もう (もう / 모-) : 이미, 더 이상",
+      "sentence_jp": "もう終わりました。",
+      "romanization": "모- 오와리마시타.",
+      "sentence_kr": "이미 끝났습니다."
+    },
+    {
+      "word_line": "校外 (こうがい / 코-가이) : 교외",
+      "sentence_jp": "校外に引っ越しました。",
+      "romanization": "코-가이니 힛코시마시타.",
+      "sentence_kr": "교외로 이사했어요."
+    }
+  ],
+  [
+    {
+      "word_line": "怪しい (あやしい / 아야시이) : 의심스럽다",
+      "sentence_jp": "その話は怪しいと思います。",
+      "romanization": "소노 하나시와 아야시이토 오모이마스.",
+      "sentence_kr": "그 이야기는 의심스럽다고 생각해요."
+    },
+    {
+      "word_line": "寂しい (さびしい / 사비시이) : 외로운",
+      "sentence_jp": "一人で旅行すると寂しいです。",
+      "romanization": "히토리데 료코-스루토 사비시이데스.",
+      "sentence_kr": "혼자 여행하면 외로워요."
+    },
+    {
+      "word_line": "急ぐ (いそぐ / 이소구) : 서두르다",
+      "sentence_jp": "電車に遅れないように急いでいます。",
+      "romanization": "덴샤니 오쿠레나이요-니 이소이데이마스.",
+      "sentence_kr": "기차에 늦지 않도록 서두르고 있습니다."
+    }
+  ],
+  [
+    {
+      "word_line": "しっかり (しっかり / 싯카리) : 확실히, 단단히",
+      "sentence_jp": "しっかり計画を立てて旅行します。",
+      "romanization": "싯카리 케이카쿠오 타테테 료코-시마스.",
+      "sentence_kr": "확실하게 계획을 세우고 여행할 거예요."
+    },
+    {
+      "word_line": "たまに (たまに / 타마니) : 가끔",
+      "sentence_jp": "たまに韓国料理が食べたくなります。",
+      "romanization": "타마니 칸코쿠 료-리가 타베타쿠 나리마스.",
+      "sentence_kr": "가끔 한국 음식이 먹고 싶어져요."
+    },
+    {
+      "word_line": "取る (とる / 토루) : 취하다, 잡다",
+      "sentence_jp": "写真を取るのが好きです。",
+      "romanization": "샤신 오 토루 노가 스키 데스.",
+      "sentence_kr": "저는 사진을 찍는 것이 좋아요."
+    }
+  ],
+  [
+    {
+      "word_line": "浮かぶ (うかぶ / 우카부) : 떠오르다",
+      "sentence_jp": "アイデアが浮かびました。",
+      "romanization": "아이데아가 우카비마시타.",
+      "sentence_kr": "아이디어가 떠올랐어요."
+    },
+    {
+      "word_line": "がらがら (がらがら / 가라가라) : 텅텅 빈",
+      "sentence_jp": "このレストランは平日がらがらです。",
+      "romanization": "코노 레스토랑와 헤-지츠 가라가라데스.",
+      "sentence_kr": "이 레스토랑은 평일엔 텅텅 비어 있어요."
+    },
+    {
+      "word_line": "立派な (りっぱな / 립파나) : 훌륭한",
+      "sentence_jp": "この料理は本当に立派な味ですね。",
+      "romanization": "코노 료-리와 혼토-니 립파나 아지데스네.",
+      "sentence_kr": "이 요리는 정말 훌륭한 맛이네요."
+    }
+  ],
+  [
+    {
+      "word_line": "出る (でる / 데루) : 나가다, 나오다",
+      "sentence_jp": "これから外に出ます。",
+      "romanization": "코레카라 소토니 데마스.",
+      "sentence_kr": "이제 밖에 나가요."
+    },
+    {
+      "word_line": "話す (はなす / 하나스) : 말하다",
+      "sentence_jp": "もっとゆっくり話してください。",
+      "romanization": "못토 윳쿠리 하나시테 쿠다사이.",
+      "sentence_kr": "좀 더 천천히 말해 주세요."
+    },
+    {
+      "word_line": "ぐっすり (ぐっすり / 굿스리) : 푹 (잠을 잘 자는 모양)",
+      "sentence_jp": "昨日はぐっすり眠れました。",
+      "romanization": "키노-와 굿스리 네무레마시타.",
+      "sentence_kr": "어제는 푹 잘 잤어요."
+    }
+  ],
+  [
+    {
+      "word_line": "ぺこぺこ (ぺこぺこ / 페코페코) : 배고픈",
+      "sentence_jp": "お腹がぺこぺこです。",
+      "romanization": "오나카가 페코페코데스.",
+      "sentence_kr": "배가 너무 고파요."
+    },
+    {
+      "word_line": "洗剤 (せんざい / 센자이) : 세제",
+      "sentence_jp": "この洗剤はどうやって使いますか？",
+      "romanization": "코노 센자이와 도-얏테 츠카이마스카?",
+      "sentence_kr": "이 세제는 어떻게 사용하나요?"
+    },
+    {
+      "word_line": "状況 (じょうきょう / 죠-쿄-) : 상황",
+      "sentence_jp": "現在の状況はどうですか？",
+      "romanization": "겐자이노 죠-쿄-와 도-데스카?",
+      "sentence_kr": "현재 상황은 어떻습니까?"
+    }
+  ],
+  [
+    {
+      "word_line": "夢 (ゆめ / 유메) : 꿈",
+      "sentence_jp": "私の夢は世界を旅することです。",
+      "romanization": "와타시노 유메와 세카이오 타비스루 코토데스.",
+      "sentence_kr": "제 꿈은 세계를 여행하는 거예요."
+    },
+    {
+      "word_line": "間違い (まちがい / 마치가이) : 실수, 잘못",
+      "sentence_jp": "それは私の間違いです。",
+      "romanization": "소레와 와타시노 마치가이데스.",
+      "sentence_kr": "그것은 제 실수입니다."
+    },
+    {
+      "word_line": "座席 (ざせき / 자세키) : 좌석",
+      "sentence_jp": "この座席は空いていますか？",
+      "romanization": "코노 자세키와 아이테이마스카?",
+      "sentence_kr": "이 좌석은 비어 있습니까?"
+    }
+  ],
+  [
+    {
+      "word_line": "怪我 (けが / 케가) : 부상",
+      "sentence_jp": "スポーツで怪我をしました。",
+      "romanization": "스포-츠데 케가오 시마시타.",
+      "sentence_kr": "스포츠에서 부상을 당했어요."
+    },
+    {
+      "word_line": "すっかり (すっかり / 슷카리) : 완전히, 모두",
+      "sentence_jp": "すっかり疲れました。",
+      "romanization": "슷카리 츠카레마시타.",
+      "sentence_kr": "완전히 지쳤어요."
+    },
+    {
+      "word_line": "しばしば (しばしば / 시바시바) : 자주, 종종",
+      "sentence_jp": "しばしばお店に行きます。",
+      "romanization": "시바시바 오미세니 이키마스.",
+      "sentence_kr": "자주 가게에 갑니다."
+    }
+  ],
+  [
+    {
+      "word_line": "すぐに (すぐに / 스구니) : 곧, 즉시",
+      "sentence_jp": "もうすぐに到着します。",
+      "romanization": "모- 스구니 토-챡쿠시마스.",
+      "sentence_kr": "곧 도착해요."
+    },
+    {
+      "word_line": "冷たい (つめたい / 츠메타이) : 차가운",
+      "sentence_jp": "この水は冷たいですね。",
+      "romanization": "코노 미즈와 츠메타이데스네.",
+      "sentence_kr": "이 물은 차갑네요."
+    },
+    {
+      "word_line": "古い (ふるい / 후루이) : 오래되다",
+      "sentence_jp": "古い本を持っています。",
+      "romanization": "후루이 홍오 못테이마스.",
+      "sentence_kr": "오래된 책을 가지고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "印刷 (いんさつ / 인사츠) : 인쇄",
+      "sentence_jp": "印刷はどこでできますか？",
+      "romanization": "인사츠와 도코데 데키마스카?",
+      "sentence_kr": "인쇄는 어디서 할 수 있나요?"
+    },
+    {
+      "word_line": "努力 (どりょく / 도료쿠) : 노력",
+      "sentence_jp": "彼はいつも努力しています。",
+      "romanization": "카레와 이츠모 도료쿠 시테이마스.",
+      "sentence_kr": "그는 항상 노력하고 있습니다."
+    },
+    {
+      "word_line": "信号 (しんごう / 신고우) : 신호",
+      "sentence_jp": "信号を守りましょう。",
+      "romanization": "신고-오 마모리마쇼-.",
+      "sentence_kr": "신호를 지킵시다."
+    }
+  ],
+  [
+    {
+      "word_line": "ドキドキ (ドキドキ / 도키도키) : 두근두근, 가슴이 뛰는",
+      "sentence_jp": "ドキドキして待っていました。",
+      "romanization": "도키도키 시테 맛떼이마시타.",
+      "sentence_kr": "두근두근하며 기다리고 있었습니다."
+    },
+    {
+      "word_line": "あまり (あまり / 아마리) : 별로, 그다지",
+      "sentence_jp": "辛い食べ物はあまり好きじゃないです。",
+      "romanization": "카라이 타베모노와 아마리 스키쟈나이데스.",
+      "sentence_kr": "매운 음식을 별로 좋아하지 않아요."
+    },
+    {
+      "word_line": "観光 (かんこう / 칸코우) : 관광",
+      "sentence_jp": "京都を観光しました。",
+      "romanization": "쿄-토오 칸코-시마시타.",
+      "sentence_kr": "교토를 관광했습니다."
+    }
+  ],
+  [
+    {
+      "word_line": "受かる (うかる / 우카루) : 합격하다",
+      "sentence_jp": "試験に受かりました。",
+      "romanization": "시켄니 우카리마시타.",
+      "sentence_kr": "시험에 합격했어요."
+    },
+    {
+      "word_line": "通勤 (つうきん / 츠-킨) : 통근",
+      "sentence_jp": "電車で通勤しています。",
+      "romanization": "덴샤데 츠-킨시테이마스.",
+      "sentence_kr": "전철로 통근하고 있어요."
+    },
+    {
+      "word_line": "合わせる (あわせる / 아와세루) : 맞추다",
+      "sentence_jp": "みんなの意見を合わせて決めましょう。",
+      "romanization": "민나노 이켄오 아와세테 키메마쇼-.",
+      "sentence_kr": "모두의 의견을 맞춰서 결정합시다."
+    }
+  ],
+  [
+    {
+      "word_line": "肩 (かた / 카타) : 어깨",
+      "sentence_jp": "肩が痛いです。",
+      "romanization": "카타가 이타이데스.",
+      "sentence_kr": "어깨가 아파요."
+    },
+    {
+      "word_line": "行く (いく / 이쿠) : 가다",
+      "sentence_jp": "学校に行きます。",
+      "romanization": "각코-니 이키마스.",
+      "sentence_kr": "학교에 갑니다."
+    },
+    {
+      "word_line": "だんだん (だんだん / 단단) : 점점",
+      "sentence_jp": "だんだん寒くなっています。",
+      "romanization": "단단 사무쿠 낫테이마스.",
+      "sentence_kr": "점점 추워지고 있습니다."
+    }
+  ],
+  [
+    {
+      "word_line": "発表 (はっぴょう / 핫뾰-) : 발표",
+      "sentence_jp": "明日、プレゼンテーションを発表します。",
+      "romanization": "아시타, 프레젠테-숀오 핫뾰-시마스.",
+      "sentence_kr": "내일, 프리젠테이션 발표를 합니다."
+    },
+    {
+      "word_line": "係 (かかり / 카카리) : 담당자, 직원",
+      "sentence_jp": "受付の係に聞いてみてください。",
+      "romanization": "우케츠케노 카카리니 키이테미테 쿠다사이.",
+      "sentence_kr": "접수 담당자에게 물어보세요."
+    },
+    {
+      "word_line": "勉強する (べんきょうする / 벤쿄-스루) : 공부하다",
+      "sentence_jp": "韓国の文化について勉強したいです。",
+      "romanization": "칸코쿠노 분카니 츠이테 벤쿄-시타이데스.",
+      "sentence_kr": "한국 문화에 대해 공부하고 싶어요."
+    }
+  ],
+  [
+    {
+      "word_line": "悲しい (かなしい/ 카나시이) : 슬픈",
+      "sentence_jp": "悲しい映画を見ました。",
+      "romanization": "카나시이 에-가오 미마시타.",
+      "sentence_kr": "슬픈 영화를 봤어요."
+    },
+    {
+      "word_line": "印象 (いんしょう / 인쇼-) : 인상",
+      "sentence_jp": "彼はとてもいい印象でした。",
+      "romanization": "카레와 토테모 이이 인쇼-데시타.",
+      "sentence_kr": "그는 매우 좋은 인상이었어요."
+    },
+    {
+      "word_line": "見る (みる / 미루) : 보다",
+      "sentence_jp": "映画を見に行きます。",
+      "romanization": "에-가오 미니 이키마스.",
+      "sentence_kr": "영화를 보러 갑니다."
+    }
+  ],
+  [
+    {
+      "word_line": "頭痛 (ずつう / 즈츠-) : 두통",
+      "sentence_jp": "頭痛薬はありますか？",
+      "romanization": "즈츠-야쿠와 아리마스카?",
+      "sentence_kr": "두통 약 있나요?"
+    },
+    {
+      "word_line": "記念 (きねん / 키넨) : 기념",
+      "sentence_jp": "これは旅行の記念に買いました。",
+      "romanization": "코레와 료코-노 키넨니 카이마시타.",
+      "sentence_kr": "이것은 여행 기념으로 샀어요."
+    },
+    {
+      "word_line": "浅い (あさい / 아사이) : 얕은",
+      "sentence_jp": "この川は浅いです。",
+      "romanization": "코노 카와와 아사이데스.",
+      "sentence_kr": "이 강은 얕습니다."
+    }
+  ],
+  [
+    {
+      "word_line": "目的 (もくてき / 모쿠테키) : 목적",
+      "sentence_jp": "旅行の目的は何ですか？",
+      "romanization": "료코-노 모쿠테키와 난데스카?",
+      "sentence_kr": "여행하는 목적은 무엇인가요?"
+    },
+    {
+      "word_line": "ぎりぎり (ぎりぎり / 기리기리) : 간신히, 막",
+      "sentence_jp": "ぎりぎりで間に合いました。",
+      "romanization": "기리기리데 마니아이마시타.",
+      "sentence_kr": "간신히 시간에 맞췄습니다."
+    },
+    {
+      "word_line": "非常 (ひじょう / 히죠우) : 매우, 비상",
+      "sentence_jp": "この商品は非常に高いですね。",
+      "romanization": "코노 쇼-힌와 히죠-니 타카이데스네.",
+      "sentence_kr": "이 상품은 가격이 매우 비싸네요."
+    }
+  ],
+  [
+    {
+      "word_line": "頼る (たよる / 타요루) : 의지하다",
+      "sentence_jp": "困った時は友達に頼りましょう。",
+      "romanization": "코맛타 토키와 토모다치니 타요리마쇼.",
+      "sentence_kr": "어려울 때는 친구에게 의지합시다."
+    },
+    {
+      "word_line": "まぶしい (まぶしい / 마부시이) : 눈부시다",
+      "sentence_jp": "太陽がまぶしくて目が痛いです。",
+      "romanization": "타이요-가 마부시쿠테 메가 이타이데스.",
+      "sentence_kr": "태양이 눈부셔서 눈이 아픕니다."
+    },
+    {
+      "word_line": "跳ぶ (とぶ / 토부) : 뛰다",
+      "sentence_jp": "子供たちは公園で跳んでいます。",
+      "romanization": "코도모타치와 코-엔데 톤데이마스.",
+      "sentence_kr": "아이들은 공원에서 뛰고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "わくわく (わくわく / 와쿠와쿠) : 두근두근 (기대감)",
+      "sentence_jp": "旅行が楽しみでわくわくしています。",
+      "romanization": "료코-가 타노시미데 와쿠와쿠 시테이마스.",
+      "sentence_kr": "여행이 기대돼서 두근거려요."
+    },
+    {
+      "word_line": "会員 (かいいん / 카인) : 회원",
+      "sentence_jp": "この会員証を見せてください。",
+      "romanization": "코노 카이인쇼-오 미세테쿠다사이.",
+      "sentence_kr": "이 회원증을 보여주세요."
+    },
+    {
+      "word_line": "受付 (うけつけ / 우케츠케) : 접수",
+      "sentence_jp": "受付で名前を書いてください。",
+      "romanization": "우케츠케데 나마에오 카이테쿠다사이.",
+      "sentence_kr": "]접수처에서 이름을 써 주세요."
+    }
+  ],
+  [
+    {
+      "word_line": "雑誌 (ざっし / 잣시) : 잡지",
+      "sentence_jp": "雑誌コーナーはどこですか？",
+      "romanization": "잣시 코-나-와 도코데스카?",
+      "sentence_kr": "잡지 코너는 어디에 있나요?"
+    },
+    {
+      "word_line": "離れる (はなれる / 하나레루) : 떨어지다",
+      "sentence_jp": "物が手から離れました。",
+      "romanization": "모노가 테카라 하나레마시타.",
+      "sentence_kr": "물건이 손에서 떨어졌어요."
+    },
+    {
+      "word_line": "組織 (そしき / 소시키) : 조직",
+      "sentence_jp": "組織のリーダーは誰ですか？",
+      "romanization": "소시키노 리-다-와 다레데스카?",
+      "sentence_kr": "조직의 리더는 누구인가요?"
+    }
+  ],
+  [
+    {
+      "word_line": "反対する (はんたいする / 한타이스루) : 반대하다",
+      "sentence_jp": "彼はその計画に反対しています。",
+      "romanization": "카레와 소노 케-카쿠니 한타이시테이마스.",
+      "sentence_kr": "그는 그 계획에 반대하고 있어요."
+    },
+    {
+      "word_line": "うっかり (うっかり / 웃카리) : 깜빡하다, 실수하다",
+      "sentence_jp": "うっかり財布を家に忘れてしまいました。",
+      "romanization": "웃카리 사이후오 이에니 와스레테 시마이마시타.",
+      "sentence_kr": "깜빡하고 지갑을 집에 두고 왔습니다."
+    },
+    {
+      "word_line": "夢中 (むちゅう / 무츄-) : 열중, 몰두",
+      "sentence_jp": "彼は読書に夢中です。",
+      "romanization": "카레와 도쿠쇼니 무츄-데스.",
+      "sentence_kr": "그는 독서에 열중하고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "調査 (ちょうさ / 초-사) : 조사",
+      "sentence_jp": "この調査に協力してください。",
+      "romanization": "코노 초-사니 쿄-료쿠 시테쿠다사이.",
+      "sentence_kr": "이 조사에 협력해 주세요."
+    },
+    {
+      "word_line": "通信 (つうしん / 츠-신) : 통신",
+      "sentence_jp": "インターネットを使って通信しています。",
+      "romanization": "인타-넷토오 츠캇테 츠-신 시테이마스.",
+      "sentence_kr": "인터넷을 사용해서 통신하고 있어요."
+    },
+    {
+      "word_line": "作る (つくる / 츠쿠루) : 만들다",
+      "sentence_jp": "ケーキを作りました。",
+      "romanization": "케-키오 츠쿠리마시타.",
+      "sentence_kr": "케이크를 만들었습니다."
+    }
+  ],
+  [
+    {
+      "word_line": "苦い (にがい / 니가이) : 쓴",
+      "sentence_jp": "この薬は苦いです。",
+      "romanization": "코노 쿠스리와 니가이데스.",
+      "sentence_kr": "이 약은 씁니다."
+    },
+    {
+      "word_line": "成績 (せいせき / 세-세키) : 성적",
+      "sentence_jp": "今年の成績は良かったです。",
+      "romanization": "코토시노 세-세키와 요캇타데스.",
+      "sentence_kr": "올해 성적은 좋았어요."
+    },
+    {
+      "word_line": "上げる (あげる / 아게루) : 올리다, 높이다",
+      "sentence_jp": "手を上げてください。",
+      "romanization": "테오 아게테 쿠다사이.",
+      "sentence_kr": "손을 들어 주세요."
+    }
+  ],
+  [
+    {
+      "word_line": "醜い (みにくい / 미니쿠이) : 추한",
+      "sentence_jp": "醜い言葉を使わないでください。",
+      "romanization": "미니쿠이 코토바오 츠카와나이데 쿠다사이.",
+      "sentence_kr": "추한 말을 사용하지 마세요."
+    },
+    {
+      "word_line": "評価 (ひょうか / 효-카) : 평가",
+      "sentence_jp": "彼の仕事の評価はとても高いです。",
+      "romanization": "카레노 시고토노 효-카와 토테모 타카이 데스.",
+      "sentence_kr": "그의 일에 대한 평가는 매우 높습니다."
+    },
+    {
+      "word_line": "からから (からから / 카라카라) : 바싹 마른",
+      "sentence_jp": "喉がからからに渇きました。",
+      "romanization": "노도가 카라카라니 카와키마시타.",
+      "sentence_kr": "목이 바싹 말랐어요."
+    }
+  ],
+  [
+    {
+      "word_line": "読む (よむ / 요무) : 읽다)",
+      "sentence_jp": "本を読むのが好きです。",
+      "romanization": "홍오 요무노가 스키데스.",
+      "sentence_kr": "책 읽는 것이 좋아요."
+    },
+    {
+      "word_line": "他 (ほか / 호카) : 다른, 그 외)",
+      "sentence_jp": "他に何かありますか？",
+      "romanization": "호카니 나니카 아리마스카?",
+      "sentence_kr": "다른 것 있나요?"
+    },
+    {
+      "word_line": "突然 (とつぜん / 토츠젠) : 갑자기)",
+      "sentence_jp": "突然雨が降り始めました。",
+      "romanization": "토츠젠 아메가 후리하지메마시타.",
+      "sentence_kr": "갑자기 비가 내리기 시작했습니다."
+    }
+  ],
+  [
+    {
+      "word_line": "編む (あむ / 아무) : 뜨다",
+      "sentence_jp": "私はセーターを編んでいます。",
+      "romanization": "와타시와 세-타-오 안데이마스.",
+      "sentence_kr": "저는 스웨터를 뜨고 있어요."
+    },
+    {
+      "word_line": "増える (ふえる / 후에루) : 늘다, 증가하다",
+      "sentence_jp": "最近、体重が増えました。",
+      "romanization": "사이킨, 타이쥐-가 후에마시타.",
+      "sentence_kr": "최근에 몸무게가 증가했어요."
+    },
+    {
+      "word_line": "引く (ひく / 히쿠) : 당기다",
+      "sentence_jp": "ドアを引いてください。",
+      "romanization": "도아오 히이테쿠다사이.",
+      "sentence_kr": "문을 당겨 주세요."
+    }
+  ],
+  [
+    {
+      "word_line": "理解 (りかい / 리카이) : 이해",
+      "sentence_jp": "説明が分かりやすくて、すぐに理解できました。",
+      "romanization": "세츠메-가 와카리야스쿠테, 스구니 리카이 데키마시타.",
+      "sentence_kr": "설명이 쉬워서 바로 이해했어요."
+    },
+    {
+      "word_line": "絵画 (かいが / 카이가) : 회화, 그림",
+      "sentence_jp": "この絵画はとても美しいです。",
+      "romanization": "코노 카이가와 토테모 우츠쿠시이데스.",
+      "sentence_kr": "이 그림은 정말 아름답습니다."
+    },
+    {
+      "word_line": "相談 (そうだん / 소-단) : 상담",
+      "sentence_jp": "問題があれば相談してください。",
+      "romanization": "몬다이가 아레바 소-단시테쿠다사이.",
+      "sentence_kr": "문제가 있으면 상담해 주세요."
+    }
+  ],
+  [
+    {
+      "word_line": "細かい (こまかい / 코마카이) : 자세한, 잘게",
+      "sentence_jp": "もっと細かい説明をお願いします。",
+      "romanization": "못토 코마카이 세츠메-오 오네가이시마스.",
+      "sentence_kr": "좀 더 자세한 설명 부탁드립니다."
+    },
+    {
+      "word_line": "含む (ふくむ / 후쿠무) : 포함하다",
+      "sentence_jp": "この文章には重要な情報が含まれています。",
+      "romanization": "코노 분쇼-니와 쥬-요-나 죠-호-가 후쿠마레테이마스.",
+      "sentence_kr": "이 문장에는 중요한 정보가 포함되어 있어요."
+    },
+    {
+      "word_line": "いきなり (いきなり / 이키나리) : 갑자기, 불쑥",
+      "sentence_jp": "いきなり電話がかかってきました。",
+      "romanization": "이키나리 덴와가 카캇테키마시타.",
+      "sentence_kr": "갑자기 전화가 걸려왔습니다."
+    }
+  ],
+  [
+    {
+      "word_line": "立つ (たつ / 타츠) : 서다",
+      "sentence_jp": "この場所に立ってください。",
+      "romanization": "코노 바쇼니 탓테 쿠다사이.",
+      "sentence_kr": "이곳에서 서 주세요."
+    },
+    {
+      "word_line": "教科書 (きょうかしょ / 쿄-카쇼) : 교과서",
+      "sentence_jp": "教科書を開いてください。",
+      "romanization": "쿄-카쇼오 히라이테 쿠다사이.",
+      "sentence_kr": "교과서를 펼쳐 주세요."
+    },
+    {
+      "word_line": "失敗 (しっぱい / 싯파이) : 실패",
+      "sentence_jp": "失敗しても諦めないでください。",
+      "romanization": "싯파이 시테모 아키라메나이데 쿠다사이.",
+      "sentence_kr": "실패해도 포기하지 마세요."
+    }
+  ],
+  [
+    {
+      "word_line": "温泉 (おんせん / 온센) : 온천",
+      "sentence_jp": "ここは温泉が有名ですか？",
+      "romanization": "코코와 온센가 유-메-데스카?",
+      "sentence_kr": "이곳은 온천이 유명한가요?"
+    },
+    {
+      "word_line": "たぶん (たぶん / 타분) : 아마, 아마도",
+      "sentence_jp": "たぶん明日は晴れるでしょう。",
+      "romanization": "타분 아시타와 하레루데쇼-.",
+      "sentence_kr": "아마 내일은 맑을 것입니다."
+    },
+    {
+      "word_line": "美しい (うつくしい / 우츠쿠시이) : 아름답다",
+      "sentence_jp": "美しい花を見ました。",
+      "romanization": "우츠쿠시이 하나오 미마시타.",
+      "sentence_kr": "아름다운 꽃을 보았습니다."
+    }
+  ],
+  [
+    {
+      "word_line": "美味しい (おいしい / 오이시이)) : 맛있는",
+      "sentence_jp": "この辺に美味しいレストランはありますか？",
+      "romanization": "코노 헨니 오이시이 레스토란와 아리마스카?",
+      "sentence_kr": "이 근처에 맛있는 음식점이 있나요?"
+    },
+    {
+      "word_line": "駅前 (えきまえ / 에키마에)) : 역 앞",
+      "sentence_jp": "駅前にレストランがあります。",
+      "romanization": "에키마에니 레스토란가 아리마스.",
+      "sentence_kr": "역 앞에 레스토랑이 있어요."
+    },
+    {
+      "word_line": "改札 (かいさつ / 카이사츠)) : 개찰구",
+      "sentence_jp": "改札で切符を見せてください。",
+      "romanization": "카이사츠데 킷푸오 미세테쿠다사이.",
+      "sentence_kr": "개찰구에서 표를 보여주세요."
+    }
+  ],
+  [
+    {
+      "word_line": "合う (あう / 아우) : 맞다, 일치하다",
+      "sentence_jp": "韓国の料理は私の口に合います。",
+      "romanization": "칸코쿠노 료-리와 와타시노 쿠치니 아이마스.",
+      "sentence_kr": "한국 음식이 제 입맛에 맞아요."
+    },
+    {
+      "word_line": "囲まれる (かこまれる / 카코마레루) : 둘러싸이다",
+      "sentence_jp": "山に囲まれた村です。",
+      "romanization": "야마니 카코마레타 무라데스.",
+      "sentence_kr": "산에 둘러싸인 마을입니다."
+    },
+    {
+      "word_line": "競争 (きょうそう / 쿄-소-) : 경쟁",
+      "sentence_jp": "競争に勝つために練習しています。",
+      "romanization": "쿄-소-니 카츠타메니 렌슈-시테이마스.",
+      "sentence_kr": "경쟁에서 이기기 위해 연습하고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "無理 (むり (무리)) : 무리, 불가능",
+      "sentence_jp": "今日は無理です。",
+      "romanization": "쿄-와 무리데스.",
+      "sentence_kr": "오늘은 무리입니다."
+    },
+    {
+      "word_line": "届く (とどく (토도쿠)) : 닿다",
+      "sentence_jp": "手が届かない場所にあります。",
+      "romanization": "테가 토도카나이 바쇼니 아리마스.",
+      "sentence_kr": "손이 닿지 않는 곳에 있어요."
+    },
+    {
+      "word_line": "歌う (うたう (우타우)) : 노래하다",
+      "sentence_jp": "彼は上手に歌います。",
+      "romanization": "카레와 죠우-니 우타이마스.",
+      "sentence_kr": "그는 노래를 잘 불러요."
+    }
+  ],
+  [
+    {
+      "word_line": "ようやく (ようやく (요-야쿠)) : 드디어, 간신히",
+      "sentence_jp": "ようやく問題が解決しました。",
+      "romanization": "요-야쿠 몬다이가 카이케츠시마시타.",
+      "sentence_kr": "드디어 문제가 해결되었습니다."
+    },
+    {
+      "word_line": "ばらばら (ばらばら (바라바라)) : 뿔뿔이, 따로따로",
+      "sentence_jp": "家族がばらばらに暮らしています。",
+      "romanization": "카조쿠가 바라바라니 쿠라시테이마스.",
+      "sentence_kr": "가족이 따로따로 살고 있어요."
+    },
+    {
+      "word_line": "両替 (りょうがえ (료-가에)) : 환전",
+      "sentence_jp": "両替はどこでできますか？",
+      "romanization": "료-가에와 도코데 데키마스카?",
+      "sentence_kr": "환전은 어디에서 할 수 있나요?"
+    }
+  ],
+  [
+    {
+      "word_line": "改善 (かいぜん (카이젠)) : 개선",
+      "sentence_jp": "サービスを改善する必要があります。",
+      "romanization": "사-비스오 카이젠스루 히츠요-가 아리마스.",
+      "sentence_kr": "서비스를 개선할 필요가 있어요."
+    },
+    {
+      "word_line": "やっと (やっと (얏토)) : 드디어, 결국",
+      "sentence_jp": "やっと仕事が終わりました。",
+      "romanization": "얏토 시고토가 오와리마시타.",
+      "sentence_kr": "드디어 일이 끝났습니다."
+    },
+    {
+      "word_line": "楽器 (がっき (갓키)) : 악기",
+      "sentence_jp": "ピアノは楽器の中で一番好きです。",
+      "romanization": "피아노와 갓키노 나카데 이치반 스키데스.",
+      "sentence_kr": "피아노는 악기 중에서 가장 좋아해요."
+    }
+  ],
+  [
+    {
+      "word_line": "そっくり (そっくり (솟쿠리)) : 꼭 닮다",
+      "sentence_jp": "彼は父親にそっくりです。",
+      "romanization": "카레와 치치오야니 솟쿠리데스.",
+      "sentence_kr": "그는 아버지를 꼭 닮았습니다."
+    },
+    {
+      "word_line": "易しい (やさしい (야사시이)) : 쉬운",
+      "sentence_jp": "この本は易しいです。",
+      "romanization": "코노 혼와 야사시이데스.",
+      "sentence_kr": "이 책은 쉬워요."
+    },
+    {
+      "word_line": "音量 (おんりょう (온료-)) : 음량",
+      "sentence_jp": "音量を下げてください。",
+      "romanization": "온료-오 사게테 쿠다사이.",
+      "sentence_kr": "음량을 낮춰 주세요."
+    }
+  ],
+  [
+    {
+      "word_line": "開発 (かいはつ (카이하츠)) : 개발",
+      "sentence_jp": "新しいアプリを開発しています。",
+      "romanization": "아타라시이 아프리오 카이하츠시테이마스.",
+      "sentence_kr": "새로운 앱을 개발하고 있습니다."
+    },
+    {
+      "word_line": "創造 (そうぞう (소-조-)) : 창조",
+      "sentence_jp": "彼の創造力はすごいです。",
+      "romanization": "카레노 소-조-료쿠와 스고이데스.",
+      "sentence_kr": "그의 창조력은 대단해요."
+    },
+    {
+      "word_line": "許可 (きょか (쿄카)) : 허가",
+      "sentence_jp": "ここで撮影する許可をもらえますか？",
+      "romanization": "코코데 사츠에-스루 쿄카오 모라에마스카?",
+      "sentence_kr": "여기서 촬영 허가를 받을 수 있나요?"
+    }
+  ],
+  [
+    {
+      "word_line": "にこにこ (にこにこ (니코니코)) : 방긋방긋",
+      "sentence_jp": "彼女はいつもにこにこしています。",
+      "romanization": "카노죠와 이츠모 니코니코 시테이마스.",
+      "sentence_kr": "그녀는 항상 방긋방긋 웃어요."
+    },
+    {
+      "word_line": "得意だ (とくいだ (토쿠이다)) : 잘하다",
+      "sentence_jp": "彼は数学が得意です。",
+      "romanization": "카레와 수-가쿠가 토쿠이데스.",
+      "sentence_kr": "그는 수학을 잘해요."
+    },
+    {
+      "word_line": "逃がす (にがす (니가스)) : 놓치다",
+      "sentence_jp": "そのチャンスを逃さないでください。",
+      "romanization": "소노 챤스오 니가사나이데 쿠다사이.",
+      "sentence_kr": "그 기회를 놓치지 마세요."
+    }
+  ],
+  [
+    {
+      "word_line": "申し訳ない (もうしわけない (모-시와케나이)) : 죄송하다",
+      "sentence_jp": "ご迷惑をおかけして、申し訳ないです。",
+      "romanization": "고메-와쿠오 오카케시테, 모-시와케나이데스.",
+      "sentence_kr": "불편을 끼쳐 드려 죄송합니다."
+    },
+    {
+      "word_line": "頼む (たのむ (타노무)) : 부탁하다",
+      "sentence_jp": "友達に荷物を頼みました。",
+      "romanization": "토모다치니 니모츠오 타노미마시타.",
+      "sentence_kr": "친구에게 짐을 부탁했어요."
+    },
+    {
+      "word_line": "面倒 (めんどう (멘도-)) : 귀찮은",
+      "sentence_jp": "切符を買うのが面倒です。",
+      "romanization": "킷푸오 카우노가 멘도-데스.",
+      "sentence_kr": "표 사는 게 귀찮아요."
+    }
+  ],
+  [
+    {
+      "word_line": "欠点 (けってん (켓텐)) : 단점",
+      "sentence_jp": "彼の欠点は忘れっぽいことです。",
+      "romanization": "카레노 켓텐와 와스렛뽀이 코토데스.",
+      "sentence_kr": "그의 단점은 잘 잊어버리는 것입니다."
+    },
+    {
+      "word_line": "学習 (がくしゅう (가쿠슈-)) : 학습",
+      "sentence_jp": "学習の時間は毎日1時間です。",
+      "romanization": "가쿠슈-노 지칸와 마이니치 이치지칸데스.",
+      "sentence_kr": "학습 시간은 매일 1시간입니다."
+    },
+    {
+      "word_line": "運動 (うんどう (운도-)) : 운동",
+      "sentence_jp": "毎日運動をしています。",
+      "romanization": "마이니치 운도-오 시테이마스.",
+      "sentence_kr": "매일 운동을 하고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "省く (はぶく (하부쿠)) : 생략하다",
+      "sentence_jp": "不必要な部分を省いてください。",
+      "romanization": "후히츠요우나 부분오 하부이테쿠다사이.",
+      "sentence_kr": "불필요한 부분을 생략해 주세요."
+    },
+    {
+      "word_line": "趣味 (しゅみ (슈미)) : 취미",
+      "sentence_jp": "私の趣味は読書です。",
+      "romanization": "와타시노 슈미와 도쿠쇼데스.",
+      "sentence_kr": "제 취미는 독서입니다."
+    },
+    {
+      "word_line": "微笑む (ほほえむ (호호에무)) : 미소짓다",
+      "sentence_jp": "彼女は優しく微笑みました。",
+      "romanization": "카노죠와 야사시쿠 호호에미마시타.",
+      "sentence_kr": "그녀는 다정하게 미소를 지었어요."
+    }
+  ],
+  [
+    {
+      "word_line": "わざわざ (わざわざ / 와자와자) : 일부러",
+      "sentence_jp": "わざわざお土産を買ってくれてありがとう。",
+      "romanization": "와자와자 오미야게오 캇테쿠레테 아리가토-.",
+      "sentence_kr": "일부러 선물 사다 줘서 고마워요."
+    },
+    {
+      "word_line": "起こす (おこす / 오코스) : 일으키다",
+      "sentence_jp": "目を覚まさせて起こしました。",
+      "romanization": "메오 사마사세테 오코시마시타.",
+      "sentence_kr": "잠에서 깨워 일으켰습니다."
+    },
+    {
+      "word_line": "伸びる (のびる / 노비루) : 자라다",
+      "sentence_jp": "彼の身長はどんどん伸びています。",
+      "romanization": "카레노 신쵸-와 돈돈 노비테이마스.",
+      "sentence_kr": "그의 키는 점점 자라고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "抱く (だく / 다쿠) : 안다",
+      "sentence_jp": "彼は夢を抱いています。",
+      "romanization": "카레와 유메오 이다이테이마스.",
+      "sentence_kr": "그는 꿈을 안고 있어요."
+    },
+    {
+      "word_line": "わざと (わざと / 와자토) : 일부러, 고의로",
+      "sentence_jp": "わざと遅れたわけではありません。",
+      "romanization": "와자토 오쿠레타 와케데와 아리마센.",
+      "sentence_kr": "일부러 늦은 건 아니에요."
+    },
+    {
+      "word_line": "速度 (そくど / 소쿠도) : 속도",
+      "sentence_jp": "車の速度を下げてください。",
+      "romanization": "쿠루마노 소쿠도오 사게테 쿠다사이.",
+      "sentence_kr": "차의 속도를 줄여 주세요."
+    }
+  ],
+  [
+    {
+      "word_line": "いつも (いつも / 이츠모) : 항상",
+      "sentence_jp": "いつもこの道を歩きます。",
+      "romanization": "이츠모 코노 미치오 아루키마스.",
+      "sentence_kr": "항상 이 길을 걷습니다."
+    },
+    {
+      "word_line": "破る (やぶる / 야부루) : 찢다",
+      "sentence_jp": "この紙を破らないでください。",
+      "romanization": "코노 카미오 야부라나이데쿠다사이.",
+      "sentence_kr": "이 종이를 찢지 말아 주세요."
+    },
+    {
+      "word_line": "要求 (ようきゅう / 요-큐-) : 요구",
+      "sentence_jp": "彼は特別な要求をしました。",
+      "romanization": "카레와 토쿠베츠나 요-큐-오 시마시타.",
+      "sentence_kr": "그는 특별한 요구를 했어요."
+    }
+  ],
+  [
+    {
+      "word_line": "良い (よい / 요이) / いい (いい / 이이) : 좋은",
+      "sentence_jp": "ここは景色が良いですね。",
+      "romanization": "코코와 케시키가 이이데스네.",
+      "sentence_kr": "여기는 경치가 좋네요."
+    },
+    {
+      "word_line": "計る (はかる / 하카루) : 측정하다",
+      "sentence_jp": "長さを計ってください。",
+      "romanization": "나가사오 하캇테쿠다사이.",
+      "sentence_kr": "길이를 측정해 주세요."
+    },
+    {
+      "word_line": "提案 (ていあん / 테-안) : 제안",
+      "sentence_jp": "新しい提案をしてください。",
+      "romanization": "아타라시이 테-안오 시테쿠다사이.",
+      "sentence_kr": "새로운 제안을 해 주세요."
+    }
+  ],
+  [
+    {
+      "word_line": "賢い (かしこい / 카시코이) : 똑똑하다",
+      "sentence_jp": "彼はとても賢い学生です。",
+      "romanization": "카레와 토테모 카시코이 가쿠세-데스.",
+      "sentence_kr": "그는 매우 똑똑한 학생입니다."
+    },
+    {
+      "word_line": "ぶらぶら (ぶらぶら / 부라부라) : 어슬렁어슬렁",
+      "sentence_jp": "猫がぶらぶら歩いています。",
+      "romanization": "네코가 부라부라 아루이테이마스.",
+      "sentence_kr": "고양이가 어슬렁어슬렁 걷고 있습니다."
+    },
+    {
+      "word_line": "迷う (まよう / 마요우) : 망설이다, 길을 잃다",
+      "sentence_jp": "道に迷いました。",
+      "romanization": "미치니 마요이마시타.",
+      "sentence_kr": "길을 잃었어요."
+    }
+  ],
+  [
+    {
+      "word_line": "歩く (あるく (아루쿠)) : 걷다",
+      "sentence_jp": "毎朝、駅まで歩きます。",
+      "romanization": "마이아사, 에키마데 아루키마스.",
+      "sentence_kr": "매일 아침, 역까지 걷습니다."
+    },
+    {
+      "word_line": "広い (ひろい (히로이)) : 넓은",
+      "sentence_jp": "この公園は広いです。",
+      "romanization": "코노 코-엔 와 히로이데스.",
+      "sentence_kr": "이 공원은 넓습니다."
+    },
+    {
+      "word_line": "物足りない (ものたりない (모노타리나이)) : 부족하다",
+      "sentence_jp": "この料理は少し物足りないです。",
+      "romanization": "코노 료-리와 스코시 모토나리나이데스.",
+      "sentence_kr": "이 요리는 조금 부족합니다."
+    }
+  ],
+  [
+    {
+      "word_line": "食材 (しょくざい (쇼쿠자이)) : 식재료",
+      "sentence_jp": "新鮮な食材を使っています。",
+      "romanization": "신센나 쇼쿠자이오 츠캇테이마스.",
+      "sentence_kr": "신선한 식재료를 사용하고 있습니다."
+    },
+    {
+      "word_line": "現在 (げんざい (겐자이)) : 현재",
+      "sentence_jp": "現在、日本に住んでいます。",
+      "romanization": "겐자이 니혼니 슨데이마스.",
+      "sentence_kr": "현재 일본에 살고 있어요."
+    },
+    {
+      "word_line": "明るい (あかるい (아카루이)) : 밝은",
+      "sentence_jp": "明るい部屋が好きです。",
+      "romanization": "아카루이 헤야가 스키데스.",
+      "sentence_kr": "밝은 방을 좋아해요."
+    }
+  ],
+  [
+    {
+      "word_line": "積極的 (せっきょくてき (섹쿄쿠테키)) : 적극적인",
+      "sentence_jp": "彼はとても積極的です。",
+      "romanization": "카레와 토테모 섹쿄쿠테키데스.",
+      "sentence_kr": "그는 매우 적극적이에요."
+    },
+    {
+      "word_line": "変える (かえる (카에루)) : 바꾸다",
+      "sentence_jp": "この紙幣をコインに変えてもいいですか？",
+      "romanization": "코노 시헤-오 코인니 카에테모 이이데스카?",
+      "sentence_kr": "이 지폐를 동전으로 바꿔도 되나요?"
+    },
+    {
+      "word_line": "見せる (みせる (미세루)) : 보여주다",
+      "sentence_jp": "写真を見せてください。",
+      "romanization": "샤신오 미세테 쿠다사이.",
+      "sentence_kr": "사진을 보여 주세요."
+    }
+  ],
+  [
+    {
+      "word_line": "細い (ほそい (호소이)) : 가는, 얇은",
+      "sentence_jp": "この道はとても細いですね。",
+      "romanization": "코노 미치와 토테모 호소이데스네.",
+      "sentence_kr": "이 길은 정말 얇네요."
+    },
+    {
+      "word_line": "喜ぶ (よろこぶ (요로코부)) : 기쁘다",
+      "sentence_jp": "彼はプレゼントをもらって喜んでいます。",
+      "romanization": "카레와 프레젠토오 모랏테 요로콘데이마스.",
+      "sentence_kr": "그는 선물을 받고 기뻐하고 있습니다."
+    },
+    {
+      "word_line": "開ける (あける (아케루)) : 열다",
+      "sentence_jp": "ドアを開けてください。",
+      "romanization": "도아오 아케테 쿠다사이.",
+      "sentence_kr": "문을 열어 주세요."
+    }
+  ],
+  [
+    {
+      "word_line": "意志 (いし (이시)) : 의지",
+      "sentence_jp": "自分の意志で決めました。",
+      "romanization": "지분노 이시데 키메마시타.",
+      "sentence_kr": "자신의 의지로 결정했어요."
+    },
+    {
+      "word_line": "洗う (あらう (아라우)) : 씻다",
+      "sentence_jp": "手を洗う場所はどこですか？",
+      "romanization": "테오 아라우 바쇼와 도코데스카?",
+      "sentence_kr": "손 씻는 곳은 어디 있나요?"
+    },
+    {
+      "word_line": "試す (ためす (타메스)) : 시도하다",
+      "sentence_jp": "新しいレストランを試してみたいです。",
+      "romanization": "아타라시이 레스토랑오 타메시테 미타이데스.",
+      "sentence_kr": "새로운 레스토랑을 시도해 보고 싶어요."
+    }
+  ],
+  [
+    {
+      "word_line": "思う (おもう (오모우)) : 생각하다",
+      "sentence_jp": "彼女のことをよく思います。",
+      "romanization": "카노조노 코토오 요쿠 오모이마스.",
+      "sentence_kr": "저는 그녀에 대해 자주 생각합니다."
+    },
+    {
+      "word_line": "事実 (じじつ (지지츠)) : 사실",
+      "sentence_jp": "それは事実ではありません。",
+      "romanization": "소레와 지지츠데와 아리마센.",
+      "sentence_kr": "그것은 사실이 아닙니다."
+    },
+    {
+      "word_line": "活動 (かつどう (카츠도-)) : 활동",
+      "sentence_jp": "ボランティア活動に参加しています。",
+      "romanization": "보란티아 카츠도-니 산카시테이마스.",
+      "sentence_kr": "자원봉사 활동에 참여하고 있습니다."
+    }
+  ],
+  [
+    {
+      "word_line": "長い (ながい (나가이)) : 긴",
+      "sentence_jp": "この道は長いです。",
+      "romanization": "코노 미치와 나가이데스.",
+      "sentence_kr": "이 길은 깁니다."
+    },
+    {
+      "word_line": "速い (はやい (하야이)) : 빠른",
+      "sentence_jp": "今日は速く仕事を終わらせました。",
+      "romanization": "쿄-와 하야쿠 시고토오 오와라세마시타.",
+      "sentence_kr": "오늘은 일을 빨리 끝냈어요."
+    },
+    {
+      "word_line": "本日 (ほんじつ (혼지츠)) : 오늘",
+      "sentence_jp": "本日は休業です。",
+      "romanization": "혼지츠와 큐-교-데스.",
+      "sentence_kr": "오늘은 휴업입니다."
+    }
+  ],
+  [
+    {
+      "word_line": "農業 (のうぎょう [노-교-]) : 농업",
+      "sentence_jp": "祖父は田舎で農業を営んでいます。",
+      "romanization": "소후와 이나카데 노-교-오 이토난데이마스.",
+      "sentence_kr": "할아버지는 시골에서 농사를 짓고 계세요."
+    },
+    {
+      "word_line": "高校 (こうこう [코-코-]) : 고등학교",
+      "sentence_jp": "妹は高校に通っています。",
+      "romanization": "이모-토와 코-코-니 카욧테이마스.",
+      "sentence_kr": "여동생은 고등학교에 다니고 있어요."
+    },
+    {
+      "word_line": "遅刻 (ちこく [치코쿠]) : 지각",
+      "sentence_jp": "今日は学校に遅刻しました。",
+      "romanization": "쿄-와 각코-니 치코쿠시마시타.",
+      "sentence_kr": "오늘 학교에 지각했어요."
+    }
+  ],
+  [
+    {
+      "word_line": "皮膚 (ひふ [히후]) : 피부",
+      "sentence_jp": "冬は皮膚が乾燥します。",
+      "romanization": "후유와 히후가 칸소-시마스.",
+      "sentence_kr": "겨울에는 피부가 건조해져요."
+    },
+    {
+      "word_line": "作文 (さくぶん [사쿠분]) : 작문",
+      "sentence_jp": "日本語で作文を書きました。",
+      "romanization": "니혼고데 사쿠분오 카키마시타.",
+      "sentence_kr": "일본어로 작문을 썼어요."
+    },
+    {
+      "word_line": "欠席 (けっせき [켓세키]) : 결석",
+      "sentence_jp": "風邪で授業を欠席しました。",
+      "romanization": "카제데 쥬교-오 켓세키시마시타.",
+      "sentence_kr": "감기로 수업에 결석했어요."
+    }
+  ],
+  [
+    {
+      "word_line": "湿気 (しっけ [싯케]) : 습기",
+      "sentence_jp": "梅雨の時期は湿気が多くてジメジメします。",
+      "romanization": "츠유노 지키와 싯케가 오오쿠테 지메지메 시마스.",
+      "sentence_kr": "장마철엔 습해서 눅눅해요."
+    },
+    {
+      "word_line": "国民 (こくみん [코쿠민]) : 국민",
+      "sentence_jp": "国民の安全がいちばん大事です。",
+      "romanization": "코쿠민노 안젠가 이치반 다이지데스.",
+      "sentence_kr": "국민의 안전이 가장 중요해요."
+    },
+    {
+      "word_line": "賛成 (さんせい [산세-]) : 찬성",
+      "sentence_jp": "その意見に賛成です。",
+      "romanization": "소노 이켄니 산세-데스.",
+      "sentence_kr": "그 의견에 찬성해요."
+    }
+  ],
+  [
+    {
+      "word_line": "家具屋 (かぐや [카구야]) : 가구점",
+      "sentence_jp": "家具屋で机を選びました。",
+      "romanization": "카구야데 츠쿠에오 에라비마시타.",
+      "sentence_kr": "가구점에서 책상을 골랐어요."
+    },
+    {
+      "word_line": "途中 (とちゅう [토츄-]) : 도중",
+      "sentence_jp": "帰る途中で雨が降りました。",
+      "romanization": "카에루 토츄-데 아메가 후리마시타.",
+      "sentence_kr": "돌아가는 도중에 비가 내렸어요."
+    },
+    {
+      "word_line": "反対 (はんたい [한타이]) : 반대",
+      "sentence_jp": "私はその考えに反対です。",
+      "romanization": "와타시와 소노 칸가에니 한타이데스.",
+      "sentence_kr": "나는 그 생각에 반대예요."
+    }
+  ],
+  [
+    {
+      "word_line": "迷信 (めいしん [메-신]) : 미신",
+      "sentence_jp": "それはただの迷信ですよ。",
+      "romanization": "소레와 타다노 메-신데스요.",
+      "sentence_kr": "그건 단지 미신일 뿐이에요."
+    },
+    {
+      "word_line": "発音 (はつおん [하츠온]) : 발음",
+      "sentence_jp": "その単語の発音は難しいです。",
+      "romanization": "소노 탄고노 하츠온와 무즈카시이데스.",
+      "sentence_kr": "그 단어는 발음하기 어려워요."
+    },
+    {
+      "word_line": "注意 (ちゅうい [츄-이]) : 주의",
+      "sentence_jp": "運転中は携帯に注意してください。",
+      "romanization": "운텐츄-와 케-타이니 츄-이시테 쿠다사이.",
+      "sentence_kr": "운전 중에는 휴대폰에 주의해주세요."
+    }
+  ],
+  [
+    {
+      "word_line": "博物館 (はくぶつかん [하쿠부츠칸]) : 박물관",
+      "sentence_jp": "新しい博物館に行ってきました。",
+      "romanization": "아타라시이 하쿠부츠칸니 잇테키마시타.",
+      "sentence_kr": "새로 생긴 박물관에 다녀왔어요."
+    },
+    {
+      "word_line": "状態 (じょうたい [죠-타이]) : 상태",
+      "sentence_jp": "機械の状態をチェックしてください。",
+      "romanization": "키카이노 죠-타이오 첵쿠 시테 쿠다사이.",
+      "sentence_kr": "기계 상태를 점검해 주세요."
+    },
+    {
+      "word_line": "説明 (せつめい [세츠메-) : 설명",
+      "sentence_jp": "この言葉の意味を説明します。",
+      "romanization": "코노 코토바노 이미오 세츠메-시마스.",
+      "sentence_kr": "이 단어의 뜻을 설명해 줄게요."
+    }
+  ],
+  [
+    {
+      "word_line": "手品 (てじな [테지나]) : 마술",
+      "sentence_jp": "弟は手品が好きです。",
+      "romanization": "오토-토와 테지나가 스키데스.",
+      "sentence_kr": "남동생은 마술을 좋아합니다."
+    },
+    {
+      "word_line": "著者 (ちょしゃ [쵸샤]) : 저자",
+      "sentence_jp": "この本の著者は有名です。",
+      "romanization": "코노 혼노 쵸샤와 유-메-데스.",
+      "sentence_kr": "이 책의 저자는 유명해요."
+    },
+    {
+      "word_line": "約束 (やくそく [야쿠소쿠]) : 약속",
+      "sentence_jp": "約束を忘れないでください。",
+      "romanization": "야쿠소쿠오 와스레나이데 쿠다사이.",
+      "sentence_kr": "약속 잊지 마세요."
+    }
+  ],
+  [
+    {
+      "word_line": "芸術 (げいじゅつ [게-쥬츠]) : 예술",
+      "sentence_jp": "芸術に興味があります。",
+      "romanization": "게-쥬츠니 쿄-미가 아리마스.",
+      "sentence_kr": "예술에 관심이 있어요."
+    },
+    {
+      "word_line": "解答 (かいとう [카이토-]) : 해답",
+      "sentence_jp": "問題の解答を見せてください。",
+      "romanization": "몬다이노 카이토-오 미세테 쿠다사이.",
+      "sentence_kr": "문제의 답을 보여 주세요."
+    },
+    {
+      "word_line": "決定 (けってい [켓테-]) : 결정",
+      "sentence_jp": "来月の予定が決定しました。",
+      "romanization": "라이게츠노 요테-가 켓테-시마시타.",
+      "sentence_kr": "다음 달 일정이 정해졌어요."
+    }
+  ],
+  [
+    {
+      "word_line": "観察 (かんさつ [칸사츠]) : 관찰",
+      "sentence_jp": "子どもは虫を観察しています。",
+      "romanization": "코도모와 무시오 칸사츠시테이마스.",
+      "sentence_kr": "아이는 벌레를 관찰하고 있습니다."
+    },
+    {
+      "word_line": "国際 (こくさい [코쿠사이]) : 국제",
+      "sentence_jp": "国際会議に参加しました。",
+      "romanization": "코쿠사이 카이기니 산카시마시타.",
+      "sentence_kr": "국제 회의에 참가했습니다."
+    },
+    {
+      "word_line": "報告 (ほうこく [호-코쿠]) : 보고",
+      "sentence_jp": "先生に結果を報告しました。",
+      "romanization": "센세-니 켓카오 호-코쿠시마시타.",
+      "sentence_kr": "선생님께 결과를 보고드렸어요."
+    }
+  ],
+  [
+    {
+      "word_line": "冷房 (れいぼう [레-보-]) : 냉방",
+      "sentence_jp": "部屋の冷房が強すぎます。",
+      "romanization": "헤야노 레-보-가 츠요스기마스.",
+      "sentence_kr": "방 안의 냉방이 너무 강합니다."
+    },
+    {
+      "word_line": "情熱 (じょうねつ [죠-네츠]) : 열정",
+      "sentence_jp": "彼は音楽に情熱を持っています。",
+      "romanization": "카레와 온가쿠니 죠-네츠오 못테이마스.",
+      "sentence_kr": "그는 음악에 열정이 넘쳐요."
+    },
+    {
+      "word_line": "帰宅 (きたく [키타쿠]) : 귀가",
+      "sentence_jp": "10時ごろ帰宅しました。",
+      "romanization": "쥬-지고로 키타쿠시마시타.",
+      "sentence_kr": "10시쯤 집에 도착했어요."
+    }
+  ],
+  [
+    {
+      "word_line": "暖房 (だんぼう [단보-]) : 난방",
+      "sentence_jp": "冬は暖房が必要です。",
+      "romanization": "후유와 단보-가 히츠요-데스.",
+      "sentence_kr": "겨울에는 난방이 꼭 필요해요."
+    },
+    {
+      "word_line": "単語 (たんご [탄고]) : 단어",
+      "sentence_jp": "毎日新しい単語を覚えています。",
+      "romanization": "마이니치 아타라시이 탄고오 오보에테이마스.",
+      "sentence_kr": "매일 새로운 단어를 외우고 있어요."
+    },
+    {
+      "word_line": "滞在（たいざい [타이자이]) : 체류",
+      "sentence_jp": "来週まで東京に滞在します。",
+      "romanization": "라이슈-마데 토-쿄-니 타이자이시마스.",
+      "sentence_kr": "다음 주까지 도쿄에 머물 거예요."
+    }
+  ],
+  [
+    {
+      "word_line": "通訳 (つうやく [츠-야쿠]) : 통역",
+      "sentence_jp": "海外旅行では通訳アプリが便利です。",
+      "romanization": "카이가이 료코-데와 츠-야쿠 아푸리가 벤리데스.",
+      "sentence_kr": "해외여행 땐 통역 앱이 편리해요."
+    },
+    {
+      "word_line": "運賃 (うんちん [운친]) : 운임, 요금",
+      "sentence_jp": "電車の運賃はいくらですか。",
+      "romanization": "덴샤노 운친와 이쿠라데스카.",
+      "sentence_kr": "전철 요금은 얼마인가요?"
+    },
+    {
+      "word_line": "訪問（ほうもん [호-몬]) : 방문",
+      "sentence_jp": "先生の家を訪問しました。",
+      "romanization": "센세-노 이에오 호-몬시마시타.",
+      "sentence_kr": "선생님 댁을 방문했어요."
+    }
+  ],
+  [
+    {
+      "word_line": "職場 (しょくば [쇼쿠바]) : 직장",
+      "sentence_jp": "職場は家から近いです。",
+      "romanization": "쇼쿠바와 이에카라 치카이데스.",
+      "sentence_kr": "직장은 집에서 가깝습니다."
+    },
+    {
+      "word_line": "科学 (かがく [카가쿠]) : 과학",
+      "sentence_jp": "科学の授業が好きです。",
+      "romanization": "카가쿠노 쥬교-가 스키데스.",
+      "sentence_kr": "과학 수업을 좋아해요."
+    },
+    {
+      "word_line": "出席（しゅっせき [슛세키]) : 출석",
+      "sentence_jp": "今日は会議に出席します。",
+      "romanization": "쿄-와 카이기니 슛세키시마스.",
+      "sentence_kr": "오늘은 회의에 출석해요."
+    }
+  ],
+  [
+    {
+      "word_line": "大使館 (たいしかん [타이시칸]) : 대사관",
+      "sentence_jp": "パスポートを受け取りに大使館へ行きました。",
+      "romanization": "파스포-토오 우케토리니 타이시칸에 이키마시타.",
+      "sentence_kr": "여권을 받으러 대사관에 갔습니다."
+    },
+    {
+      "word_line": "方法 (ほうほう [호-호-]) : 방법",
+      "sentence_jp": "いい方法を見つけました。",
+      "romanization": "이이 호-호-오 미츠케마시타.",
+      "sentence_kr": "좋은 방법을 찾았어요."
+    },
+    {
+      "word_line": "旅行（りょこう [료코-]) : 여행",
+      "sentence_jp": "夏休みに旅行に行きます。",
+      "romanization": "나츠야스미니 료코-니 이키마스.",
+      "sentence_kr": "여름방학에 여행 갈 거예요."
+    }
+  ],
+  [
+    {
+      "word_line": "技術 (ぎじゅつ [기쥬츠]) : 기술",
+      "sentence_jp": "彼の技術はすばらしいです。",
+      "romanization": "카레노 기쥬츠와 스바라시이데스.",
+      "sentence_kr": "그의 기술은 뛰어납니다."
+    },
+    {
+      "word_line": "電話 (でんわ [덴와]) : 전화",
+      "sentence_jp": "友達に電話をかけました。",
+      "romanization": "토모다치니 덴와오 카케마시타.",
+      "sentence_kr": "친구에게 전화를 걸었어요."
+    },
+    {
+      "word_line": "出張（しゅっちょう [슛초-]) : 출장",
+      "sentence_jp": "父は大阪に出張中です。",
+      "romanization": "치치와 오오사카니 슛초-츄-데스.",
+      "sentence_kr": "아버지는 오사카에 출장 중이에요."
+    }
+  ],
+  [
+    {
+      "word_line": "市場 (いちば [이치바]) : 시장",
+      "sentence_jp": "市場で果物を買いました。",
+      "romanization": "이치바데 쿠다모노오 카이마시타.",
+      "sentence_kr": "시장에서 과일을 샀습니다."
+    },
+    {
+      "word_line": "公害 (こうがい [코-가이]) : 공해",
+      "sentence_jp": "公害のニュースを見ました。",
+      "romanization": "코-가이노 뉴-스오 미마시타.",
+      "sentence_kr": "공해 관련 뉴스를 봤어요."
+    },
+    {
+      "word_line": "通学（つうがく [츠-가쿠]) : 통학",
+      "sentence_jp": "私はバスで通学しています。",
+      "romanization": "와타시와 바스데 츠-가쿠시테이마스.",
+      "sentence_kr": "나는 버스로 통학해요."
+    }
+  ],
+  [
+    {
+      "word_line": "交換 (こうかん [코-칸]) : 교환",
+      "sentence_jp": "友達とプレゼントを交換しました。",
+      "romanization": "토모다치토 푸레젠토오 코-칸시마시타.",
+      "sentence_kr": "친구와 선물을 교환했습니다."
+    },
+    {
+      "word_line": "関係 (かんけい [칸케-]) : 관계",
+      "sentence_jp": "年齢とは関係なく応募できます。",
+      "romanization": "넨레-토와 칸케-나쿠 오-보- 데키마스.",
+      "sentence_kr": "나이와 관계없이 지원할 수 있어요."
+    },
+    {
+      "word_line": "乗り換え（のりかえ [노리카에]) : 환승",
+      "sentence_jp": "新宿で電車を乗り換えます。",
+      "romanization": "신쥬쿠데 덴샤오 노리카에마스.",
+      "sentence_kr": "신주쿠에서 전철을 갈아타요."
+    }
+  ],
+  [
+    {
+      "word_line": "苦労 (くろう [쿠로-]) : 고생",
+      "sentence_jp": "新しい仕事に慣れるまで苦労しました。",
+      "romanization": "아타라시이 시고토니 나레루마데 쿠로-시마시타.",
+      "sentence_kr": "새로운 일에 익숙해질 때까지 고생했어요."
+    },
+    {
+      "word_line": "工事 (こうじ [코-지]) : 공사",
+      "sentence_jp": "工事の音が少しうるさいです。",
+      "romanization": "코-지노 오토가 스코시 우루사이데스.",
+      "sentence_kr": "공사 소리가 조금 시끄러워요."
+    },
+    {
+      "word_line": "遅延（ちえん [치엔]) : 지연",
+      "sentence_jp": "台風で電車が遅延しています。",
+      "romanization": "타이후-데 덴샤가 치엔시테이마스.",
+      "sentence_kr": "태풍 때문에 전철이 지연되고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "芸能人 (げいのうじん [게-노-진]) : 연예인",
+      "sentence_jp": "好きな芸能人に会いました。",
+      "romanization": "스키나 게-노-진니 아이마시타.",
+      "sentence_kr": "좋아하는 연예인을 만났어요."
+    },
+    {
+      "word_line": "機会 (きかい [키카이]) : 기회",
+      "sentence_jp": "いい機会なので参加します。",
+      "romanization": "이이 키카이 나노데 산카시마스.",
+      "sentence_kr": "좋은 기회라서 참가할게요."
+    },
+    {
+      "word_line": "出発（しゅっぱつ [슛팟츠]) : 출발",
+      "sentence_jp": "列車は10時に出発します。",
+      "romanization": "렛샤와 쥬-지니 슛팟츠시마스.",
+      "sentence_kr": "열차는 10시에 출발해요."
+    }
+  ],
+  [
+    {
+      "word_line": "講義 (こうぎ [코-기]) : 강의",
+      "sentence_jp": "今日は日本語の講義があります。",
+      "romanization": "쿄-와 니혼고노 코-기가 아리마스.",
+      "sentence_kr": "오늘은 일본어 강의가 있어요."
+    },
+    {
+      "word_line": "作家 (さっか [삿카]) : 작가",
+      "sentence_jp": "有名な作家の本を読みました。",
+      "romanization": "유-메-나 삿카노 혼오 요미마시타.",
+      "sentence_kr": "유명한 작가의 책을 읽었어요."
+    },
+    {
+      "word_line": "渋滞（じゅうたい [쥬-타이]) : 교통 체증",
+      "sentence_jp": "道路が渋滞しています。",
+      "romanization": "도-로가 쥬-타이시테이마스.",
+      "sentence_kr": "도로가 막히고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "国会 (こっかい [콕카이]) : 국회",
+      "sentence_jp": "ニュースで国会を見ました。",
+      "romanization": "뉴-스데 콕카이오 미마시타.",
+      "sentence_kr": "뉴스에서 국회를 봤어요."
+    },
+    {
+      "word_line": "祭り (まつり [마츠리]) : 축제",
+      "sentence_jp": "夏には大きな祭りがあります。",
+      "romanization": "나츠니와 오오키나 마츠리가 아리마스.",
+      "sentence_kr": "여름에는 큰 축제가 있어요."
+    },
+    {
+      "word_line": "順番（じゅんばん [쥰방]) : 순서",
+      "sentence_jp": "順番を守ってください。",
+      "romanization": "쥰방오 마못테 쿠다사이.",
+      "sentence_kr": "순서를 지켜 주세요."
+    }
+  ],
+  [
+    {
+      "word_line": "作品 (さくひん [사쿠힌]) : 작품",
+      "sentence_jp": "この作品は人気があります。",
+      "romanization": "코노 사쿠힌와 닌키가 아리마스.",
+      "sentence_kr": "이 작품은 인기가 있어요."
+    },
+    {
+      "word_line": "冷蔵庫 (れいぞうこ [레-조-코]) : 냉장고",
+      "sentence_jp": "ジュースは冷蔵庫にあります。",
+      "romanization": "쥬-스와 레-조-코니 아리마스.",
+      "sentence_kr": "주스는 냉장고에 있어요."
+    },
+    {
+      "word_line": "案内（あんない [안나이]) : 안내",
+      "sentence_jp": "店内をご案内します。",
+      "romanization": "텐나이오 고안나이시마스.",
+      "sentence_kr": "가게 안을 안내해 드릴게요."
+    }
+  ],
+  [
+    {
+      "word_line": "秘密 (ひみつ [히미츠]) : 비밀",
+      "sentence_jp": "これは二人だけの秘密にしてください。",
+      "romanization": "코레와 후타리다케노 히미츠니 시테 쿠다사이.",
+      "sentence_kr": "이건 우리 둘만의 비밀로 해 주세요."
+    },
+    {
+      "word_line": "会議 (かいぎ [카이기]) : 회의",
+      "sentence_jp": "午後に会議があります。",
+      "romanization": "고고니 카이기가 아리마스.",
+      "sentence_kr": "오후에 회의가 있어요."
+    },
+    {
+      "word_line": "予約（よやく [요야쿠]) : 예약",
+      "sentence_jp": "ホテルを予約しました。",
+      "romanization": "호테루오 요야쿠시마시타.",
+      "sentence_kr": "호텔을 예약했어요."
+    }
+  ],
+  [
+    {
+      "word_line": "理想 (りそう [리소-]) : 이상",
+      "sentence_jp": "私の理想に近い人です。",
+      "romanization": "와타시노 리소-니 치카이 히토데스.",
+      "sentence_kr": "제 이상형에 가까운 사람이에요."
+    },
+    {
+      "word_line": "練習 (れんしゅう [렌슈-]) : 연습",
+      "sentence_jp": "毎日スピーチを練習しています。",
+      "romanization": "마이니치 스피-치오 렌슈-시테이마스.",
+      "sentence_kr": "매일 스피치를 연습하고 있어요."
+    },
+    {
+      "word_line": "配達（はいたつ [하이타츠]) : 배달",
+      "sentence_jp": "荷物を配達してもらいました。",
+      "romanization": "니모츠오 하이타츠시테 모라이마시타.",
+      "sentence_kr": "짐을 배달 받았어요."
+    }
+  ],
+  [
+    {
+      "word_line": "相手 (あいて [아이테]) : 상대",
+      "sentence_jp": "相手の話をよく聞いてください。",
+      "romanization": "아이테노 하나시오 요쿠 키이테 쿠다사이.",
+      "sentence_kr": "상대방 말을 잘 들어 주세요."
+    },
+    {
+      "word_line": "留学 (りゅうがく [류-가쿠]) : 유학",
+      "sentence_jp": "妹はアメリカに留学しています。",
+      "romanization": "이모-토와 아메리카니 류-가쿠시테이마스.",
+      "sentence_kr": "여동생은 미국에 유학 중이에요."
+    },
+    {
+      "word_line": "料金（りょうきん [료-킨]) : 요금",
+      "sentence_jp": "このサービスの料金はいくらですか。",
+      "romanization": "코노 사-비스노 료-킨와 이쿠라데스카.",
+      "sentence_kr": "이 서비스 요금은 얼마인가요?"
+    }
+  ],
+  [
+    {
+      "word_line": "瞬間 (しゅんかん [슌칸]) : 순간",
+      "sentence_jp": "いい瞬間を写真に撮りました。",
+      "romanization": "이이 슌칸오 샤신니 토리마시타.",
+      "sentence_kr": "좋은 순간을 사진으로 찍었어요."
+    },
+    {
+      "word_line": "返事 (へんじ [헨지]) : 대답",
+      "sentence_jp": "先生に返事をしました。",
+      "romanization": "센세-니 헨지오 시마시타.",
+      "sentence_kr": "선생님께 대답했어요."
+    },
+    {
+      "word_line": "支払い（しはらい [시하라이]) : 지불",
+      "sentence_jp": "カードで支払いできますか。",
+      "romanization": "카-도데 시하라이 데키마스카.",
+      "sentence_kr": "카드로 지불할 수 있나요?"
+    }
+  ],
+  [
+    {
+      "word_line": "無駄 (むだ [무다]) : 낭비",
+      "sentence_jp": "時間を無駄にしないでください。",
+      "romanization": "지칸오 무다니 시나이데 쿠다사이.",
+      "sentence_kr": "시간을 낭비하지 마세요."
+    },
+    {
+      "word_line": "試験 (しけん [시켄]) : 시험",
+      "sentence_jp": "明日は英語の試験です。",
+      "romanization": "아시타와 에-고노 시켄데스.",
+      "sentence_kr": "내일은 영어 시험이에요."
+    },
+    {
+      "word_line": "領収書（りょうしゅうしょ [료-슈-쇼]) : 영수증",
+      "sentence_jp": "領収書をください。",
+      "romanization": "료-슈-쇼오 쿠다사이.",
+      "sentence_kr": "영수증 주세요."
+    }
+  ],
+  [
+    {
+      "word_line": "法律 (ほうりつ [호-리츠]) : 법률",
+      "sentence_jp": "日本の法律を勉強しています。",
+      "romanization": "니혼노 호-리츠오 벤쿄-시테이마스.",
+      "sentence_kr": "일본의 법률을 공부하고 있어요."
+    },
+    {
+      "word_line": "卒業 (そつぎょう [소츠교-]) : 졸업",
+      "sentence_jp": "兄は大学を卒業しました。",
+      "romanization": "아니와 다이가쿠오 소츠교-시마시타.",
+      "sentence_kr": "형은 대학교를 졸업했어요."
+    },
+    {
+      "word_line": "会計（かいけい [카이케-]) : 계산",
+      "sentence_jp": "レジで会計をお願いします。",
+      "romanization": "레지데 카이케-오 오네가이시마스.",
+      "sentence_kr": "계산은 계산대에서 부탁드려요."
+    }
+  ],
+  [
+    {
+      "word_line": "訓練 (くんれん [쿤렌]) : 훈련",
+      "sentence_jp": "毎朝走って訓練しています。",
+      "romanization": "마이아사 하싯테 쿤렌시테이마스.",
+      "sentence_kr": "매일 아침 뛰면서 훈련하고 있어요."
+    },
+    {
+      "word_line": "引越し (ひっこし [힛코시]) : 이사",
+      "sentence_jp": "来月、新しい家に引越しします。",
+      "romanization": "라이게츠, 아타라시이 이에니 힛코시 시마스.",
+      "sentence_kr": "다음 달에 새 집으로 이사해요."
+    },
+    {
+      "word_line": "販売（はんばい [한바이]) : 판매",
+      "sentence_jp": "この商品は販売中です。",
+      "romanization": "코노 쇼-힌와 한바이츄-데스.",
+      "sentence_kr": "이 상품은 판매 중이에요."
+    }
+  ],
+  [
+    {
+      "word_line": "職人 (しょくにん [쇼쿠닌]) : 장인",
+      "sentence_jp": "父は家具を作る職人です。",
+      "romanization": "치치와 카구오 츠쿠루 쇼쿠닌데스",
+      "sentence_kr": "아버지는 가구를 만드는 장인이세요."
+    },
+    {
+      "word_line": "支度 (したく [시타쿠]) : 준비",
+      "sentence_jp": "朝は学校の支度で忙しいです。",
+      "romanization": "아사와 각코-노 시타쿠데 이소가시이데스",
+      "sentence_kr": "아침에는 학교 갈 준비하느라 바빠요."
+    },
+    {
+      "word_line": "営業（えいぎょう [에-교-]) : 영업",
+      "sentence_jp": "日曜日も営業しています。",
+      "romanization": "니치요-비모 에-교-시테이마스",
+      "sentence_kr": "일요일에도 영업해요."
+    }
+  ],
+  [
+    {
+      "word_line": "商売 (しょうばい [쇼-바이]) : 장사",
+      "sentence_jp": "母は小さな店で商売をしています。",
+      "romanization": "하하와 치이사나 미세데 쇼-바이오 시테이마스.",
+      "sentence_kr": "엄마는 작은 가게에서 장사하고 계세요."
+    },
+    {
+      "word_line": "用意 (ようい [요-이]) : 준비",
+      "sentence_jp": "夕食の用意を手伝いました。",
+      "romanization": "유-쇼쿠노 요-이오 테츠다이마시타.",
+      "sentence_kr": "저녁 준비를 도왔어요."
+    },
+    {
+      "word_line": "開店（かいてん [카이텐]) : 개점",
+      "sentence_jp": "この店は10時に開店します。",
+      "romanization": "코노 미세와 쥬-지니 카이텐시마스.",
+      "sentence_kr": "이 가게는 10시에 문을 열어요."
+    }
+  ],
+  [
+    {
+      "word_line": "文房具 (ぶんぼうぐ [분보-구]) : 문구류",
+      "sentence_jp": "新しい文房具を買いました。",
+      "romanization": "아타라시이 분보-구오 카이마시타.",
+      "sentence_kr": "새로운 문구류를 샀어요."
+    },
+    {
+      "word_line": "準備 (じゅんび [쥰비]) : 준비",
+      "sentence_jp": "旅行の準備はできましたか？",
+      "romanization": "료코-노 쥰비와 데키마시타카?",
+      "sentence_kr": "여행 준비 다 했어요?"
+    },
+    {
+      "word_line": "閉店（へいてん [헤-텐]) : 폐점",
+      "sentence_jp": "スーパーは9時に閉店します。",
+      "romanization": "수-파-와 쿠-지니 헤-텐시마스.",
+      "sentence_kr": "슈퍼는 9시에 문을 닫아요."
+    }
+  ],
+  [
+    {
+      "word_line": "食器 (しょっき [쇽키]) : 식기",
+      "sentence_jp": "きれいな食器がたくさんあります。",
+      "romanization": "키레이나 쇽키가 타쿠산 아리마스.",
+      "sentence_kr": "예쁜 식기가 많이 있어요."
+    },
+    {
+      "word_line": "見物 (けんぶつ [켄부츠]) : 구경",
+      "sentence_jp": "京都でお寺を見物しました。",
+      "romanization": "쿄-토데 오테라오 켄부츠시마시타.",
+      "sentence_kr": "교토에서 절을 구경했어요."
+    },
+    {
+      "word_line": "営業時間（えいぎょうじかん [에-교-지칸]) : 영업시간",
+      "sentence_jp": "営業時間は何時からですか？",
+      "romanization": "에-교-지칸와 난지카라데스카?",
+      "sentence_kr": "영업시간은 몇 시부터예요?"
+    }
+  ],
+  [
+    {
+      "word_line": "専門 (せんもん [센몬]) : 전문",
+      "sentence_jp": "彼は音楽の専門です。",
+      "romanization": "카레와 온가쿠노 센몬데스.",
+      "sentence_kr": "그는 음악을 전공했어요."
+    },
+    {
+      "word_line": "見舞い (みまい [미마이]) : 병문안",
+      "sentence_jp": "友達のお見舞いに行きました。",
+      "romanization": "토모다치노 오미마이니 이키마시타.",
+      "sentence_kr": "친구 병문안 갔다 왔어요."
+    },
+    {
+      "word_line": "値段（ねだん [네단]) : 가격",
+      "sentence_jp": "このバッグの値段はいくらですか。",
+      "romanization": "코노 박구노 네단와 이쿠라데스카.",
+      "sentence_kr": "이 가방 가격은 얼마인가요?"
+    }
+  ],
+  [
+    {
+      "word_line": "留守 (るす [루스]) : 부재중",
+      "sentence_jp": "昼間は留守にしています。",
+      "romanization": "히루마와 루스니 시테이마스.",
+      "sentence_kr": "낮에는 집에 사람이 없어요."
+    },
+    {
+      "word_line": "見学 (けんがく [켄가쿠]) : 견학",
+      "sentence_jp": "工場を見学しました。",
+      "romanization": "코-조-오 켄가쿠시마시타.",
+      "sentence_kr": "공장을 견학했어요."
+    },
+    {
+      "word_line": "割引（わりびき [와리비키]) : 할인",
+      "sentence_jp": "セールで20％割引でした。",
+      "romanization": "세-루데 니쥬-파-센토 와리비키데시타.",
+      "sentence_kr": "세일로 20% 할인됐어요."
+    }
+  ],
+  [
+    {
+      "word_line": "正解 (せいかい [세-카이]) : 정답",
+      "sentence_jp": "この問題の正解は何ですか。",
+      "romanization": "코노 몬다이노 세-카이와 난데스카.",
+      "sentence_kr": "이 문제의 정답은 무엇인가요?"
+    },
+    {
+      "word_line": "高速 (こうそく [코-소쿠]) : 고속",
+      "sentence_jp": "高速道路を使って行きました。",
+      "romanization": "코-소쿠 도-로오 츠캇테 이키마시타.",
+      "sentence_kr": "고속도로를 이용해서 갔어요."
+    },
+    {
+      "word_line": "無料（むりょう [무료-]) : 무료",
+      "sentence_jp": "このイベントは無料です。",
+      "romanization": "코노 이벤토와 무료-데스.",
+      "sentence_kr": "이 이벤트는 무료예요."
+    }
+  ],
+  [
+    {
+      "word_line": "性格 (せいかく [세-카쿠]) : 성격",
+      "sentence_jp": "彼は優しい性格です。",
+      "romanization": "카레와 야사시이 세-카쿠데스.",
+      "sentence_kr": "그는 다정한 성격이에요."
+    },
+    {
+      "word_line": "予習 (よしゅう [요슈-]) : 예습",
+      "sentence_jp": "授業の前に予習します。",
+      "romanization": "쥬교-노 마에니 요슈-시마스.",
+      "sentence_kr": "수업 전에 예습해요."
+    },
+    {
+      "word_line": "有料（ゆうりょう [유-료-]) : 유료",
+      "sentence_jp": "駐車場は有料です。",
+      "romanization": "추-샤조-와 유-료-데스.",
+      "sentence_kr": "주차장은 유료예요."
+    }
+  ],
+  [
+    {
+      "word_line": "数学 (すうがく [스-가쿠]) : 수학",
+      "sentence_jp": "数学のテストは難しかったです。",
+      "romanization": "스-가쿠노 테스토와 무즈카시캇타데스.",
+      "sentence_kr": "수학 시험이 어려웠어요."
+    },
+    {
+      "word_line": "復習 (ふくしゅう [후쿠슈-]) : 복습",
+      "sentence_jp": "試験のために復習しました。",
+      "romanization": "시켄노 타메니 후쿠슈-시마시타.",
+      "sentence_kr": "시험을 위해 복습했어요."
+    },
+    {
+      "word_line": "消費（しょうひ [쇼-히]) : 소비",
+      "sentence_jp": "エネルギーの消費が多いです。",
+      "romanization": "에네루기-노 쇼-히가 오오이데스.",
+      "sentence_kr": "에너지 소비가 많아요."
+    }
+  ],
+  [
+    {
+      "word_line": "電気 (でんき [덴키]) : 전기",
+      "sentence_jp": "夜は電気をつけてください。",
+      "romanization": "요루와 덴키오 츠케테 쿠다사이.",
+      "sentence_kr": "밤에는 불을 켜 주세요."
+    },
+    {
+      "word_line": "計画 (けいかく [케-카쿠]) : 계획",
+      "sentence_jp": "旅行の計画を立てています。",
+      "romanization": "료코-노 케-카쿠오 타테테이마스.",
+      "sentence_kr": "여행 계획을 세우고 있어요."
+    },
+    {
+      "word_line": "税金（ぜいきん [제-킨]) : 세금",
+      "sentence_jp": "税金を払いました。",
+      "romanization": "제-킨오 하라이마시타.",
+      "sentence_kr": "세금을 냈어요."
+    }
+  ],
+  [
+    {
+      "word_line": "規則 (きそく [키소쿠]) : 규칙",
+      "sentence_jp": "学校にはたくさんの規則があります。",
+      "romanization": "각코-니와 타쿠산노 키소쿠가 아리마스.",
+      "sentence_kr": "학교에는 많은 규칙이 있어요."
+    },
+    {
+      "word_line": "連絡 (れんらく [렌라쿠]) : 연락",
+      "sentence_jp": "何かあったら連絡してください。",
+      "romanization": "나니카 앗타라 렌라쿠 시테 쿠다사이.",
+      "sentence_kr": "무슨 일 있으면 연락 주세요."
+    },
+    {
+      "word_line": "経済（けいざい [케-자이]) : 경제",
+      "sentence_jp": "日本の経済について学びました。",
+      "romanization": "니혼노 케-자이니 츠이테 마나비마시타.",
+      "sentence_kr": "일본 경제에 대해 배웠어요."
+    }
+  ],
+  [
+    {
+      "word_line": "自由 (じゆう [지유-]) : 자유",
+      "sentence_jp": "自由に話してください。",
+      "romanization": "지유-니 하나시테 쿠다사이.",
+      "sentence_kr": "자유롭게 말씀해 주세요."
+    },
+    {
+      "word_line": "希望 (きぼう [키보-]) : 희망",
+      "sentence_jp": "彼は留学を希望しています。",
+      "romanization": "카레와 류-가쿠오 키보-시테이마스.",
+      "sentence_kr": "그는 유학을 희망하고 있어요."
+    },
+    {
+      "word_line": "景気（けいき [케-키]) : 경기",
+      "sentence_jp": "最近は景気が悪いです。",
+      "romanization": "사이킨와 케-키가 와루이데스.",
+      "sentence_kr": "요즘 경기가 안 좋아요."
+    }
+  ],
+  [
+    {
+      "word_line": "社会 (しゃかい [샤카이]) : 사회",
+      "sentence_jp": "社会のルールを学んでいます。",
+      "romanization": "샤카이노 루-루오 마난데이마스.",
+      "sentence_kr": "사회 규칙을 배우고 있어요."
+    },
+    {
+      "word_line": "経験 (けいけん [케이켄]) : 경험",
+      "sentence_jp": "いい経験になりました。",
+      "romanization": "이이 케-켄니 나리마시타.",
+      "sentence_kr": "좋은 경험이 되었어요."
+    },
+    {
+      "word_line": "物価（ぶっか [붓카]) : 물가",
+      "sentence_jp": "物価がどんどん上がっています。",
+      "romanization": "붓카가 돈돈 아갓테이마스.",
+      "sentence_kr": "물가가 점점 오르고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "国語 (こくご [코쿠고]) : 국어",
+      "sentence_jp": "国語の授業は面白いです。",
+      "romanization": "코쿠고노 쥬교-와 오모시로이데스.",
+      "sentence_kr": "국어 수업이 재미있어요."
+    },
+    {
+      "word_line": "感動 (かんどう [칸도-]) : 감동",
+      "sentence_jp": "その映画に感動しました。",
+      "romanization": "소노 에-가니 칸도-시마시타.",
+      "sentence_kr": "그 영화에 감동했어요."
+    },
+    {
+      "word_line": "支出（ししゅつ [시슈츠]) : 지출",
+      "sentence_jp": "今月の支出が多かったです。",
+      "romanization": "콘게츠노 시슈츠가 오오캇타데스.",
+      "sentence_kr": "이번 달 지출이 많았어요."
+    }
+  ],
+  [
+    {
+      "word_line": "空港 (くうこう [쿠-코-]) : 공항",
+      "sentence_jp": "明日、空港へ迎えに行きます。",
+      "romanization": "아시타, 쿠-코-에 무카에니 이키마스.",
+      "sentence_kr": "내일 공항에 마중 나가요."
+    },
+    {
+      "word_line": "安心 (あんしん [안신]) : 안심",
+      "sentence_jp": "無事だと聞いて安心しました。",
+      "romanization": "부지다토 키이테 안신시마시타.",
+      "sentence_kr": "무사하다고 들어서 안심이 되었어요."
+    },
+    {
+      "word_line": "貯金（ちょきん [초킨]) : 저축",
+      "sentence_jp": "毎月少しずつ貯金しています。",
+      "romanization": "마이츠키 스코시즈츠 초킨시테이마스.",
+      "sentence_kr": "매달 조금씩 저축하고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "紙幣（しへい [시헤-]) : 지폐",
+      "sentence_jp": "1万円の紙幣を使いました。",
+      "romanization": "이치만엔노 시헤-오 츠카이마시타.",
+      "sentence_kr": "만 엔짜리 지폐를 썼어요."
+    },
+    {
+      "word_line": "送金（そうきん [소-킨]) : 송금",
+      "sentence_jp": "今朝、送金が完了しました。",
+      "romanization": "케사, 소-킨가 칸료-시마시타.",
+      "sentence_kr": "오늘 아침에 송금을 완료했어요."
+    },
+    {
+      "word_line": "預金（よきん [요킨]) : 예금",
+      "sentence_jp": "銀行に預金があります。",
+      "romanization": "긴코-니 요킨가 아리마스.",
+      "sentence_kr": "은행에 예금이 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "硬貨（こうか [코-카]) : 동전",
+      "sentence_jp": "財布に硬貨がたくさんあります。",
+      "romanization": "사이후니 코-카가 타쿠산 아리마스.",
+      "sentence_kr": "지갑에 동전이 많이 있어요."
+    },
+    {
+      "word_line": "請求（せいきゅう [세-큐-]) : 청구",
+      "sentence_jp": "請求書が届きました。",
+      "romanization": "세-큐-쇼가 토도키마시타.",
+      "sentence_kr": "청구서가 도착했어요."
+    },
+    {
+      "word_line": "現金（げんきん [겐킨]) : 현금",
+      "sentence_jp": "現金で払います。",
+      "romanization": "겐킨데 하라이마스.",
+      "sentence_kr": "현금으로 낼게요."
+    }
+  ],
+  [
+    {
+      "word_line": "図表（ずひょう [즈효-]) : 도표, 그래프",
+      "sentence_jp": "図表を使って結果を説明しました。",
+      "romanization": "즈효-오 츠캇테 켓카오 세츠메-시마시타.",
+      "sentence_kr": "도표를 사용해서 결과를 설명했어요."
+    },
+    {
+      "word_line": "残業（ざんぎょう [잔교-]) : 야근",
+      "sentence_jp": "昨日は遅くまで残業しました。",
+      "romanization": "키노-와 오소쿠마데 잔교-시마시타.",
+      "sentence_kr": "어제는 늦게까지 야근했어요."
+    },
+    {
+      "word_line": "仏像（ぶつぞう [부츠조-]) : 불상",
+      "sentence_jp": "お寺で古い仏像を見ました。",
+      "romanization": "오테라데 후루이 부츠조-오 미마시타.",
+      "sentence_kr": "절에서 오래된 불상을 봤어요."
+    }
+  ],
+  [
+    {
+      "word_line": "文法（ぶんぽう [분포-]) : 문법",
+      "sentence_jp": "日本語の文法は難しいです。",
+      "romanization": "니혼고노 분포-와 무즈카시이데스.",
+      "sentence_kr": "일본어 문법은 어렵습니다."
+    },
+    {
+      "word_line": "芸人（げいにん [게-닌]) : 연예인, 개그맨",
+      "sentence_jp": "人気の芸人をテレビで見ました。",
+      "romanization": "닌키노 게-닌오 테레비데 미마시타.",
+      "sentence_kr": "인기 있는 개그맨을 TV에서 봤어요."
+    },
+    {
+      "word_line": "特急券（とっきゅうけん [톡큐-켄]) : 특급열차표",
+      "sentence_jp": "東京行きの特急券を買いました。",
+      "romanization": "토-쿄-이키노 톡큐-켄오 카이마시타.",
+      "sentence_kr": "도쿄행 특급열차표를 샀어요."
+    }
+  ],
+  [
+    {
+      "word_line": "吹奏楽（すいそうがく [스이소-가쿠]) : 취주악, 관악합주",
+      "sentence_jp": "彼は吹奏楽部でトランペットを担当しています。",
+      "romanization": "카레와 스이소-가쿠부데 토란펫토오 탄토-시테이마스.",
+      "sentence_kr": "그는 관악부에서 트럼펫을 담당하고 있어요."
+    },
+    {
+      "word_line": "部屋（へや [헤야]) : 방",
+      "sentence_jp": "この部屋はもう掃除されましたか？",
+      "romanization": "코노 헤야와 모- 소-지사레마시타카?",
+      "sentence_kr": "이 방은 이미 청소되었나요?"
+    },
+    {
+      "word_line": "橋（はし [하시]) : 다리",
+      "sentence_jp": "この橋はとても長いです。",
+      "romanization": "코노 하시와 토테모 나가이데스.",
+      "sentence_kr": "이 다리는 아주 길어요."
+    }
+  ],
+  [
+    {
+      "word_line": "展覧会（てんらんかい / 텐란카이) : 전람회",
+      "sentence_jp": "美術展覧会に行きました。",
+      "romanization": "비쥬츠 텐란카이니 이키마시타.",
+      "sentence_kr": "미술 전람회에 갔습니다."
+    },
+    {
+      "word_line": "通行止め（つうこうどめ / 츠-코-도메) : 통행금지",
+      "sentence_jp": "事故で道が通行止めになりました。",
+      "romanization": "지코데 미치가 츠-코-도메니 나리마시타.",
+      "sentence_kr": "사고로 도로가 통행금지되었어요."
+    },
+    {
+      "word_line": "あなた（あなた / 아나타) : 당신",
+      "sentence_jp": "あなたの名前は何ですか？",
+      "romanization": "아나타노 나마에와 난데스카?",
+      "sentence_kr": "당신의 이름은 무엇인가요?"
+    }
+  ],
+  [
+    {
+      "word_line": "電池（でんち / 덴치) : 건전지",
+      "sentence_jp": "このおもちゃは電池で動きます。",
+      "romanization": "코노 오모챠와 덴치데 우고키마스.",
+      "sentence_kr": "이 장난감은 건전지로 움직입니다."
+    },
+    {
+      "word_line": "医者（いしゃ / 이샤) : 의사",
+      "sentence_jp": "頭が痛いので医者に行きました。",
+      "romanization": "아타마가 이타이노데 이샤니 이키마시타.",
+      "sentence_kr": "머리가 아파서 의사에게 갔어요."
+    },
+    {
+      "word_line": "コンセント（こんせんと / 콘센토) : 콘센트",
+      "sentence_jp": "コンセントにスマホをつなぎました。",
+      "romanization": "콘센토니 스마호오 츠나기마시타.",
+      "sentence_kr": "콘센트에 스마트폰을 연결했어요."
+    }
+  ],
+  [
+    {
+      "word_line": "醤油（しょうゆ / 쇼-유) : 간장",
+      "sentence_jp": "すみません、醤油を取ってもらえますか？",
+      "romanization": "스미마센, 쇼-유오 톳테 모라에마스카?",
+      "sentence_kr": "죄송한데, 간장 좀 건네주시겠어요?"
+    },
+    {
+      "word_line": "意味（いみ / 이미) : 의미",
+      "sentence_jp": "この単語の意味が分かりません。",
+      "romanization": "코노 탄고노 이미가 와카리마센.",
+      "sentence_kr": "이 단어의 의미를 모르겠어요."
+    },
+    {
+      "word_line": "発音記号（はつおんきごう / 하츠온키고-) : 발음 기호",
+      "sentence_jp": "発音記号を使って正しく発音します。",
+      "romanization": "하츠온키고-오 츠캇테 타다시쿠 하츠온시마스.",
+      "sentence_kr": "발음 기호를 사용해서 정확히 발음해요."
+    }
+  ],
+  [
+    {
+      "word_line": "夕方（ゆうがた / 유-가타) : 저녁",
+      "sentence_jp": "夕方に一緒に散歩しませんか？",
+      "romanization": "유-가타니 잇쇼니 산포 시마센카?",
+      "sentence_kr": "저녁에 같이 산책하지 않을래요?"
+    },
+    {
+      "word_line": "絵画展（かいがてん / 카이가텐) : 회화전",
+      "sentence_jp": "絵画展を見に行きました。",
+      "romanization": "카이가텐오 미니 이키마시타.",
+      "sentence_kr": "회화전을 보러 갔어요."
+    },
+    {
+      "word_line": "天井（てんじょう / 텐죠-) : 천장",
+      "sentence_jp": "部屋の天井にライトがあります。",
+      "romanization": "헤야노 텐죠-니 라이토가 아리마스.",
+      "sentence_kr": "방 천장에 조명이 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "妹（いもうと / 이모-토) : 여동생",
+      "sentence_jp": "妹は高校生です。",
+      "romanization": "이모-토와 코-코-세-데스.",
+      "sentence_kr": "여동생은 고등학생이에요."
+    },
+    {
+      "word_line": "歌手（かしゅ / 카슈) : 가수",
+      "sentence_jp": "この歌手の声が好きです。",
+      "romanization": "코노 카슈노 코에가 스키데스.",
+      "sentence_kr": "이 가수의 목소리가 좋아요."
+    },
+    {
+      "word_line": "教師（きょうし / 쿄-시) : 교사",
+      "sentence_jp": "母は高校の教師です。",
+      "romanization": "하하와 코-코-노 쿄-시데스.",
+      "sentence_kr": "어머니는 고등학교 교사예요."
+    }
+  ],
+  [
+    {
+      "word_line": "店（みせ / 미세) : 가게",
+      "sentence_jp": "この店のケーキは美味しいですよ。",
+      "romanization": "코노 미세노 케-키와 오이시이데스요.",
+      "sentence_kr": "이 가게 케이크 맛있어요."
+    },
+    {
+      "word_line": "昔（むかし / 무카시) : 옛날",
+      "sentence_jp": "昔はここに映画館がありましたよね？",
+      "romanization": "무카시와 코코니 에-가칸가 아리마시타요네?",
+      "sentence_kr": "예전엔 여기에 영화관이 있었죠?"
+    },
+    {
+      "word_line": "焼き魚（やきざかな / 야키자카나) : 구운 생선",
+      "sentence_jp": "夕食に焼き魚を食べました。",
+      "romanization": "유-쇼쿠니 야키자카나오 타베마시타.",
+      "sentence_kr": "저녁으로 구운 생선을 먹었어요."
+    }
+  ],
+  [
+    {
+      "word_line": "期限（きげん / 키겐) : 기한",
+      "sentence_jp": "このクーポンの期限はいつまでですか？",
+      "romanization": "코노 쿠-폰노 키겐와 이츠마데데스카?",
+      "sentence_kr": "이 쿠폰 유효 기간은 언제까지예요?"
+    },
+    {
+      "word_line": "反応（はんのう / 한노-) : 반응",
+      "sentence_jp": "そのニュースに多くの反応がありました。",
+      "romanization": "소노 뉴-스니 오-쿠노 한노-가 아리마시타.",
+      "sentence_kr": "그 뉴스에 많은 반응이 있었어요."
+    },
+    {
+      "word_line": "交通費（こうつうひ / 코-츠-히) : 교통비",
+      "sentence_jp": "会社から交通費が支給されます。",
+      "romanization": "카이샤카라 코-츠-히가 시큐-사레마스.",
+      "sentence_kr": "회사에서 교통비가 지원돼요."
+    }
+  ],
+  [
+    {
+      "word_line": "プレゼント（ぷれぜんと / 푸레젠토) : 선물",
+      "sentence_jp": "誕生日にプレゼントをもらいました。",
+      "romanization": "탄죠-비니 푸레젠토오 모라이마시타.",
+      "sentence_kr": "생일에 선물을 받았어요."
+    },
+    {
+      "word_line": "ポスター（ポスター / 포스타-) : 포스터",
+      "sentence_jp": "壁にポスターを貼りました。",
+      "romanization": "카베니 포스타-오 하리마시타.",
+      "sentence_kr": "벽에 포스터를 붙였어요."
+    },
+    {
+      "word_line": "水泳（すいえい / 스이에-) : 수영",
+      "sentence_jp": "水泳は健康にいいです。",
+      "romanization": "스이에-와 켄코-니 이이데스.",
+      "sentence_kr": "수영은 건강에 좋아요."
+    }
+  ],
+  [
+    {
+      "word_line": "劇団（げきだん / 게키단) : 극단",
+      "sentence_jp": "彼女は劇団で演技をしています。",
+      "romanization": "카노죠와 게키단데 엔기오 시테이마스.",
+      "sentence_kr": "그녀는 극단에서 연기를 하고 있어요."
+    },
+    {
+      "word_line": "薬（くすり / 쿠스리) : 약",
+      "sentence_jp": "風邪薬はもう飲まれましたか？",
+      "romanization": "카제구스리와 모- 노마레마시타카?",
+      "sentence_kr": "감기약은 이미 드셨나요?"
+    },
+    {
+      "word_line": "風景（ふうけい / 후-케-) : 풍경",
+      "sentence_jp": "この町の風景はとても美しいです。",
+      "romanization": "코노 마치노 후-케-와 토테모 우츠쿠시이데스.",
+      "sentence_kr": "이 마을의 풍경은 매우 아름다워요."
+    }
+  ],
+  [
+    {
+      "word_line": "尊敬（そんけい / 손케-) : 존경",
+      "sentence_jp": "祖父をとても尊敬しています。",
+      "romanization": "소후오 토테모 손케-시테이마스.",
+      "sentence_kr": "할아버지를 매우 존경하고 있어요."
+    },
+    {
+      "word_line": "平日（へいじつ / 헤-지츠) : 평일",
+      "sentence_jp": "平日は仕事で忙しいです。",
+      "romanization": "헤-지츠와 시고토데 이소가시이데스.",
+      "sentence_kr": "평일에는 일이 바빠요."
+    },
+    {
+      "word_line": "指導者（しどうしゃ / 시도-샤) : 지도자",
+      "sentence_jp": "彼は若いチームの指導者です。",
+      "romanization": "카레와 와카이 치-무노 시도-샤데스.",
+      "sentence_kr": "그는 젊은 팀의 지도자예요."
+    }
+  ],
+  [
+    {
+      "word_line": "寿司（すし / 스시) : 초밥",
+      "sentence_jp": "週末に寿司を食べに行きましょう。",
+      "romanization": "슈-마츠니 스시오 타베니 이키마쇼-.",
+      "sentence_kr": "주말에 초밥 먹으러 가요."
+    },
+    {
+      "word_line": "トイレ（といれ 토이레）: 화장실",
+      "sentence_jp": "すみません、トイレはどちらにありますか？",
+      "romanization": "스미마센, 토이레와 도치라니 아리마스카?",
+      "sentence_kr": "실례지만, 화장실은 어디에 있나요?"
+    },
+    {
+      "word_line": "真夜中（まよなか / 마요나카) : 한밤중",
+      "sentence_jp": "真夜中に地震がありました。",
+      "romanization": "마요나카니 지신가 아리마시타.",
+      "sentence_kr": "한밤중에 지진이 있었어요."
+    }
+  ],
+  [
+    {
+      "word_line": "路線図（ろせんず / 로센즈) : 노선도",
+      "sentence_jp": "駅で路線図をもらいました。",
+      "romanization": "에키데 로센즈오 모라이마시타.",
+      "sentence_kr": "역에서 노선도를 받았어요."
+    },
+    {
+      "word_line": "廊下（ろうか / 로-카) : 복도",
+      "sentence_jp": "廊下を静かに歩いてください。",
+      "romanization": "로-카오 시즈카니 아루이테 쿠다사이.",
+      "sentence_kr": "복도를 조용히 걸어 주세요."
+    },
+    {
+      "word_line": "作曲（さっきょく / 삿쿄쿠) : 작곡",
+      "sentence_jp": "兄はピアノで作曲をしています。",
+      "romanization": "아니와 피아노데 삿쿄쿠오 시테이마스.",
+      "sentence_kr": "형은 피아노로 작곡을 하고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "予約席（よやくせき / 요야쿠세키) : 예약석",
+      "sentence_jp": "予約席はこちらになります。",
+      "romanization": "요야쿠세키와 코치라니 나리마스.",
+      "sentence_kr": "예약석은 이쪽입니다."
+    },
+    {
+      "word_line": "温泉地（おんせんち / 온센치) : 온천지",
+      "sentence_jp": "温泉地でリラックスしました。",
+      "romanization": "온센치데 리랏쿠스 시마시타.",
+      "sentence_kr": "온천지에서 휴식을 취했어요."
+    },
+    {
+      "word_line": "面接（めんせつ / 멘세츠) : 면접",
+      "sentence_jp": "明日、会社の面接があります。",
+      "romanization": "아시타, 카이샤노 멘세츠가 아리마스.",
+      "sentence_kr": "내일 회사 면접이 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "美術品（びじゅつひん / 비쥬츠힌) : 미술품",
+      "sentence_jp": "博物館に美術品が展示されています。",
+      "romanization": "하쿠부츠칸니 비쥬츠힌가 텐지사레테이마스.",
+      "sentence_kr": "박물관에 미술품이 전시되어 있어요."
+    },
+    {
+      "word_line": "昼間（ひるま / 히루마) : 낮",
+      "sentence_jp": "昼間はとても暖かいです。",
+      "romanization": "히루마와 토테모 아타타카이데스.",
+      "sentence_kr": "낮에는 아주 따뜻해요."
+    },
+    {
+      "word_line": "雪（ゆき / 유키) : 눈",
+      "sentence_jp": "朝起きたら雪が積もっていました。",
+      "romanization": "아사 오키타라 유키가 츠못테이마시타.",
+      "sentence_kr": "아침에 일어나보니 눈이 쌓여 있었어요."
+    }
+  ],
+  [
+    {
+      "word_line": "本棚（ほんだな / 혼다나) : 책장",
+      "sentence_jp": "部屋に大きな本棚があります。",
+      "romanization": "헤야니 오오키나 혼다나가 아리마스.",
+      "sentence_kr": "방에 큰 책장이 있어요."
+    },
+    {
+      "word_line": "消しゴム（けしごむ / 케시고무) : 지우개",
+      "sentence_jp": "消しゴムを貸していただけますか？",
+      "romanization": "케시고무오 카시테 이타다케마스카?",
+      "sentence_kr": "지우개 좀 빌릴 수 있을까요?"
+    },
+    {
+      "word_line": "化粧品（けしょうひん / 케쇼-힌) : 화장품",
+      "sentence_jp": "新しい化粧品を買いました。",
+      "romanization": "아타라시이 케쇼-힌오 카이마시타.",
+      "sentence_kr": "새로운 화장품을 샀어요."
+    }
+  ],
+  [
+    {
+      "word_line": "土産物（みやげもの / 미야게모노) : 기념품",
+      "sentence_jp": "旅行で土産物を買いました。",
+      "romanization": "료코-데 미야게모노오 카이마시타.",
+      "sentence_kr": "여행에서 기념품을 샀어요."
+    },
+    {
+      "word_line": "漬物（つけもの / 츠케모노) : 절임 음식",
+      "sentence_jp": "この漬物は手作りですか？",
+      "romanization": "코노 츠케모노와 테즈쿠리데스카?",
+      "sentence_kr": "이 절임 음식은 직접 만드신 건가요?"
+    },
+    {
+      "word_line": "入る（はいる / 하이루) : 들어가다",
+      "sentence_jp": "このドアから教室に入ります。",
+      "romanization": "코노 도아카라 쿄-시츠니 하이리마스.",
+      "sentence_kr": "이 문으로 교실에 들어갑니다."
+    }
+  ],
+  [
+    {
+      "word_line": "看護師（かんごし / 칸고시) : 간호사",
+      "sentence_jp": "姉は病院で看護師をしています。",
+      "romanization": "아네와 뵤-인데 칸고시오 시테이마스.",
+      "sentence_kr": "언니는 병원에서 간호사로 일하고 있어요."
+    },
+    {
+      "word_line": "期間（きかん / 키칸) : 기간",
+      "sentence_jp": "このキャンペーンの実施期間はいつまでですか？",
+      "romanization": "코노 캰페-엔노 짓시 키칸와 이츠마데데스카?",
+      "sentence_kr": "이 캠페인은 언제까지 진행되나요?"
+    },
+    {
+      "word_line": "荷物（にもつ / 니모츠) : 짐",
+      "sentence_jp": "旅行の荷物が多すぎます。",
+      "romanization": "료코-노 니모츠가 오오스기마스.",
+      "sentence_kr": "여행 짐이 너무 많아요."
+    }
+  ],
+  [
+    {
+      "word_line": "絶望（ぜつぼう / 제츠보-) : 절망",
+      "sentence_jp": "絶望せずに、もう一度挑戦しましょう。",
+      "romanization": "제츠보-세즈니, 모-이치도 쵸-센시마쇼-.",
+      "sentence_kr": "절망하지 말고 한 번 더 도전해봐요."
+    },
+    {
+      "word_line": "北（きた / 키타) : 북쪽",
+      "sentence_jp": "北の空が曇っています。",
+      "romanization": "키타노 소라가 쿠못테이마스.",
+      "sentence_kr": "북쪽 하늘이 흐려요."
+    },
+    {
+      "word_line": "時間割（じかんわり / 지칸와리) : 시간표",
+      "sentence_jp": "明日の時間割を確認してください。",
+      "romanization": "아시타노 지칸와리오 카쿠닌시테 쿠다사이.",
+      "sentence_kr": "내일 시간표를 확인해 주세요."
+    }
+  ],
+  [
+    {
+      "word_line": "屋根（やね / 야네) : 지붕",
+      "sentence_jp": "屋根に雪が積もっています。",
+      "romanization": "야네니 유키가 츠못테이마스.",
+      "sentence_kr": "지붕에 눈이 쌓여 있어요."
+    },
+    {
+      "word_line": "まな板（まないた / 마나이타) : 도마",
+      "sentence_jp": "野菜をまな板の上で切りました。",
+      "romanization": "야사이오 마나이타노 우에데 키리마시타.",
+      "sentence_kr": "도마 위에서 채소를 잘랐어요."
+    },
+    {
+      "word_line": "娘（むすめ / 무스메) : 딸",
+      "sentence_jp": "娘は大学に通っています。",
+      "romanization": "무스메와 다이가쿠니 카욧테이마스.",
+      "sentence_kr": "딸은 대학에 다니고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "緑茶（りょくちゃ / 료쿠차) : 녹차",
+      "sentence_jp": "食後に緑茶を飲みました。",
+      "romanization": "쇼쿠고니 료쿠차오 노미마시타.",
+      "sentence_kr": "식사 후에 녹차를 마셨어요."
+    },
+    {
+      "word_line": "年代（ねんだい / 넨다이) : 연대, 시대",
+      "sentence_jp": "これは1980年代の音楽です。",
+      "romanization": "코레와 센큐-햐쿠하치쥬-넨다이노 온가쿠데스.",
+      "sentence_kr": "이건 1980년대 음악이에요."
+    },
+    {
+      "word_line": "贈り物（おくりもの / 오쿠리모노) : 선물",
+      "sentence_jp": "友達に贈り物を渡しました。",
+      "romanization": "토모다치니 오쿠리모노오 와타시마시타.",
+      "sentence_kr": "친구에게 선물을 건넸어요."
+    }
+  ],
+  [
+    {
+      "word_line": "昼食（ちゅうしょく / 츄-쇼쿠) : 점심식사",
+      "sentence_jp": "今日は友達と昼食を食べました。",
+      "romanization": "쿄-와 토모다치토 츄-쇼쿠오 타베마시타.",
+      "sentence_kr": "오늘은 친구랑 점심을 먹었어요."
+    },
+    {
+      "word_line": "飲み物（のみもの / 노미모노) : 음료",
+      "sentence_jp": "冷たい飲み物をください。",
+      "romanization": "츠메타이 노미모노오 쿠다사이.",
+      "sentence_kr": "차가운 음료를 주세요."
+    },
+    {
+      "word_line": "観光客（かんこうきゃく / 칸코-캬쿠) : 관광객",
+      "sentence_jp": "観光客で町がにぎわっています。",
+      "romanization": "칸코-캬쿠데 마치가 니기왓테이마스.",
+      "sentence_kr": "관광객들로 거리가 붐비고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "空腹（くうふく / 쿠-후쿠) : 공복",
+      "sentence_jp": "空腹で頭がぼーっとします。",
+      "romanization": "쿠-후쿠데 아타마가 봇-토 시마스.",
+      "sentence_kr": "공복이라 머리가 멍해요."
+    },
+    {
+      "word_line": "工芸品（こうげいひん / 코-게-힌) : 공예품",
+      "sentence_jp": "この店では美しい工芸品を売っています。",
+      "romanization": "코노 미세데와 우츠쿠시이 코-게-힌오 웃테이마스.",
+      "sentence_kr": "이 가게에서는 아름다운 공예품을 팔고 있어요."
+    },
+    {
+      "word_line": "石けん（せっけん / 셋켄) : 비누",
+      "sentence_jp": "石けんで手をよく洗いましょう。",
+      "romanization": "셋켄데 테오 요쿠 아라이마쇼-.",
+      "sentence_kr": "비누로 손을 잘 씻어요."
+    }
+  ],
+  [
+    {
+      "word_line": "舞踏（ぶとう / 부토-) : 무도, 춤",
+      "sentence_jp": "彼は舞踏の才能があります。",
+      "romanization": "카레와 부토-노 사이노-가 아리마스.",
+      "sentence_kr": "그는 춤에 재능이 있어요."
+    },
+    {
+      "word_line": "炭酸水（たんさんすい / 탄산스이) : 탄산수",
+      "sentence_jp": "炭酸水はお好きですか？",
+      "romanization": "탄산스이와 오스키데스카?",
+      "sentence_kr": "탄산수 좋아하시나요?"
+    },
+    {
+      "word_line": "意欲（いよく / 이요쿠) : 의욕",
+      "sentence_jp": "彼は仕事に強い意欲を持っています。",
+      "romanization": "카레와 시고토니 츠요이 이요쿠오 못테이마스.",
+      "sentence_kr": "그는 일에 강한 의욕을 가지고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "手袋（てぶくろ / 테부쿠로) : 장갑",
+      "sentence_jp": "寒いので手袋をしました。",
+      "romanization": "사무이노데 테부쿠로오 시마시타.",
+      "sentence_kr": "추워서 장갑을 꼈어요."
+    },
+    {
+      "word_line": "郵便（ゆうびん / 유-빈) : 우편",
+      "sentence_jp": "この書類は郵便で送っていただけますか？",
+      "romanization": "코노 쇼루이와 유-빈데 오쿳테 이타다케마스카?",
+      "sentence_kr": "이 서류는 우편으로 보내주실 수 있나요?"
+    },
+    {
+      "word_line": "判断（はんだん / 한단) : 판단",
+      "sentence_jp": "冷静な判断が必要です。",
+      "romanization": "레-세-나 한단가 히츠요-데스.",
+      "sentence_kr": "침착한 판단이 필요해요."
+    }
+  ],
+  [
+    {
+      "word_line": "東（ひがし / 히가시) : 동쪽",
+      "sentence_jp": "東の空が明るくなってきました。",
+      "romanization": "히가시노 소라가 아카루쿠 낫테 키마시타.",
+      "sentence_kr": "동쪽 하늘이 밝아졌어요."
+    },
+    {
+      "word_line": "注文書（ちゅうもんしょ / 츄-몬쇼) : 주문서",
+      "sentence_jp": "注文書の内容をご確認いただけますか？",
+      "romanization": "츄-몬쇼노 나이요-오 고카쿠닌 이타다케마스카?",
+      "sentence_kr": "주문서 내용을 확인해 주시겠어요?"
+    },
+    {
+      "word_line": "田舎（いなか / 이나카) : 시골",
+      "sentence_jp": "夏休みは田舎で過ごします。",
+      "romanization": "나츠야스미와 이나카데 스고시마스.",
+      "sentence_kr": "여름방학은 시골에서 보낼 거예요."
+    }
+  ],
+  [
+    {
+      "word_line": "切符（きっぷ / 킷푸) : 표, 승차권",
+      "sentence_jp": "電車の切符を買いました。",
+      "romanization": "덴샤노 킷푸오 카이마시타.",
+      "sentence_kr": "전철표를 샀어요."
+    },
+    {
+      "word_line": "展示物（てんじぶつ / 텐지부츠) : 전시물",
+      "sentence_jp": "博物館の展示物がとても興味深いです。",
+      "romanization": "하쿠부츠칸노 텐지부츠가 토테모 쿄-미부카이데스.",
+      "sentence_kr": "박물관 전시물들이 매우 흥미로워요."
+    },
+    {
+      "word_line": "書道（しょどう / 쇼도-) : 서예",
+      "sentence_jp": "学校で書道の授業があります。",
+      "romanization": "각코-데 쇼도-노 쥬교-가 아리마스.",
+      "sentence_kr": "학교에서 서예 수업이 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "神様（かみさま / 카미사마) : 신(神)",
+      "sentence_jp": "神様にお願いをしました。",
+      "romanization": "카미사마니 오네가이오 시마시타.",
+      "sentence_kr": "신에게 소원을 빌었어요."
+    },
+    {
+      "word_line": "包丁（ほうちょう / 호-초-) : 식칼",
+      "sentence_jp": "包丁で野菜を切ります。",
+      "romanization": "호-초-데 야사이오 키리마스.",
+      "sentence_kr": "식칼로 채소를 자릅니다."
+    },
+    {
+      "word_line": "勤務（きんむ / 킨무) : 근무",
+      "sentence_jp": "彼は病院で勤務しています。",
+      "romanization": "카레와 뵤-인데 킨무시테이마스.",
+      "sentence_kr": "그는 병원에서 근무 중이에요."
+    }
+  ],
+  [
+    {
+      "word_line": "山道（やまみち / 야마미치) : 산길",
+      "sentence_jp": "山道を歩いて登りました。",
+      "romanization": "야마미치오 아루이테 노보리마시타.",
+      "sentence_kr": "산길을 걸어 올라갔어요."
+    },
+    {
+      "word_line": "年（とし / 토시) : 나이, 해",
+      "sentence_jp": "彼は私より三つ年上です。",
+      "romanization": "카레와 와타시요리 밋츠 토시우에데스.",
+      "sentence_kr": "그는 저보다 세 살 많아요."
+    },
+    {
+      "word_line": "パソコン（ぱそこん / 파소콘) : 컴퓨터",
+      "sentence_jp": "パソコンを買い替えました。",
+      "romanization": "파소콘오 카이카에마시타.",
+      "sentence_kr": "컴퓨터를 새로 샀어요."
+    }
+  ],
+  [
+    {
+      "word_line": "日時（にちじ / 니치지) : 일시",
+      "sentence_jp": "イベントの日時を確認しました。",
+      "romanization": "이벤토노 니치지오 카쿠닌시마시타.",
+      "sentence_kr": "행사 일시를 확인했어요."
+    },
+    {
+      "word_line": "出前（でまえ / 데마에) : 배달 음식",
+      "sentence_jp": "今日は出前を頼みましょうか？",
+      "romanization": "쿄-와 데마에오 타노미마쇼-카?",
+      "sentence_kr": "오늘은 배달 음식 시킬까요?"
+    },
+    {
+      "word_line": "文学（ぶんがく / 분가쿠) : 문학",
+      "sentence_jp": "私は日本文学を専攻しています。",
+      "romanization": "와타시와 니혼 분가쿠오 센코-시테이마스.",
+      "sentence_kr": "저는 일본 문학을 전공하고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "歴史的（れきしてき / 레키시테키) : 역사적인",
+      "sentence_jp": "これは歴史的な出来事です。",
+      "romanization": "코레와 레키시테키나 데키고토데스.",
+      "sentence_kr": "이것은 역사적인 사건입니다."
+    },
+    {
+      "word_line": "階段（かいだん / 카이단) : 계단",
+      "sentence_jp": "階段を使うときは足元にご注意ください。",
+      "romanization": "카이단오 츠카우토키와 아시모토니 고츄-이 쿠다사이.",
+      "sentence_kr": "계단 이용 시 발밑을 조심해 주세요."
+    },
+    {
+      "word_line": "農家（のうか / 노-카) : 농가",
+      "sentence_jp": "農家で野菜を育てています。",
+      "romanization": "노-카데 야사이오 소다테테이마스.",
+      "sentence_kr": "농가에서 채소를 키우고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "暖かい（あたたかい / 아타타카이) : 따뜻한",
+      "sentence_jp": "今日はとても暖かい日です。",
+      "romanization": "쿄-와 토테모 아타타카이 히데스.",
+      "sentence_kr": "오늘은 매우 따뜻한 날이에요."
+    },
+    {
+      "word_line": "学生（がくせい / 가쿠세이) : 학생",
+      "sentence_jp": "私は大学の学生です。",
+      "romanization": "와타시와 다이가쿠노 가쿠세이데스.",
+      "sentence_kr": "저는 대학생입니다."
+    },
+    {
+      "word_line": "お寺（おてら / 오테라) : 절",
+      "sentence_jp": "京都には有名なお寺が多いです。",
+      "romanization": "쿄-토니와 유-메-나 오테라가 오오이데스.",
+      "sentence_kr": "교토에는 유명한 절이 많아요."
+    }
+  ],
+  [
+    {
+      "word_line": "祖父（そふ / 소후) : 할아버지",
+      "sentence_jp": "祖父と一緒に散歩しました。",
+      "romanization": "소후토 잇쇼니 산포-시마시타.",
+      "sentence_kr": "할아버지와 함께 산책했어요."
+    },
+    {
+      "word_line": "学年（がくねん / 가쿠넨) : 학년",
+      "sentence_jp": "お子さんは何年生ですか？",
+      "romanization": "오코상와 난넨세-데스카?",
+      "sentence_kr": "아이 분은 몇 학년인가요?"
+    },
+    {
+      "word_line": "酢（す / 스) : 식초",
+      "sentence_jp": "この料理には酢を少し入れます。",
+      "romanization": "코노 료-리니와 스오 스코시 이레마스.",
+      "sentence_kr": "이 요리에는 식초를 조금 넣어요."
+    }
+  ],
+  [
+    {
+      "word_line": "味見（あじみ / 아지미) : 맛보기",
+      "sentence_jp": "料理の途中で味見をしました。",
+      "romanization": "료-리노 토츄-데 아지미오 시마시타.",
+      "sentence_kr": "요리 도중에 맛을 봤어요."
+    },
+    {
+      "word_line": "息子（むすこ / 무스코) : 아들",
+      "sentence_jp": "息子さんは元気にされていますか？",
+      "romanization": "무스코상와 겐키니 사레테이마스카?",
+      "sentence_kr": "아드님은 잘 지내고 계신가요?"
+    },
+    {
+      "word_line": "質問（しつもん / 시츠몬) : 질문",
+      "sentence_jp": "質問があればどうぞ。",
+      "romanization": "시츠몬가 아레바 도-조.",
+      "sentence_kr": "질문 있으면 말씀하세요."
+    }
+  ],
+  [
+    {
+      "word_line": "鍋（なべ / 나베) : 냄비, 전골",
+      "sentence_jp": "寒い日は鍋料理が食べたくなります。",
+      "romanization": "사무이 히와 나베료-리가 타베타쿠 나리마스.",
+      "sentence_kr": "추운 날엔 전골이 먹고 싶어져요."
+    },
+    {
+      "word_line": "通学路（つうがくろ / 츠-가쿠로) : 통학로",
+      "sentence_jp": "通学路にはたくさんの子どもがいます。",
+      "romanization": "츠-가쿠로니와 타쿠산노 코도모가 이마스.",
+      "sentence_kr": "통학로에는 아이들이 많이 있어요."
+    },
+    {
+      "word_line": "道順（みちじゅん / 미치쥰) : 길 순서, 가는 방법",
+      "sentence_jp": "駅までの道順を教えてください。",
+      "romanization": "에키마데노 미치쥰오 오시에테 쿠다사이.",
+      "sentence_kr": "역까지 가는 길을 알려 주세요."
+    }
+  ],
+  [
+    {
+      "word_line": "玄関（げんかん / 겐칸) : 현관",
+      "sentence_jp": "靴は玄関に置いてください。",
+      "romanization": "쿠츠와 겐칸니 오이테 쿠다사이.",
+      "sentence_kr": "신발은 현관에 두세요."
+    },
+    {
+      "word_line": "旅行者（りょこうしゃ / 료코-샤) : 여행자",
+      "sentence_jp": "最近は外国人旅行者が増えています。",
+      "romanization": "사이킨와 가이코쿠진 료코-샤가 후에테이마스.",
+      "sentence_kr": "요즘은 외국인 여행자가 늘고 있어요."
+    },
+    {
+      "word_line": "扇風機（せんぷうき / 센푸-키) : 선풍기",
+      "sentence_jp": "暑いので扇風機を使います。",
+      "romanization": "아츠이노데 센푸-키오 츠카이마스.",
+      "sentence_kr": "더워서 선풍기를 켜요."
+    }
+  ],
+  [
+    {
+      "word_line": "単位（たんい / 탄이) : 학점, 단위",
+      "sentence_jp": "この科目は3単位です。",
+      "romanization": "코노 카모쿠와 산탄이데스.",
+      "sentence_kr": "이 과목은 3학점이에요."
+    },
+    {
+      "word_line": "漫画（まんが / 망가) : 만화",
+      "sentence_jp": "最近はどんな漫画を読まれていますか？",
+      "romanization": "사이킨와 돈나 망가오 요마레테이마스카?",
+      "sentence_kr": "요즘은 어떤 만화를 읽고 계신가요?"
+    },
+    {
+      "word_line": "夕食（ゆうしょく / 유-쇼쿠) : 저녁 식사",
+      "sentence_jp": "今夜の夕食はカレーです。",
+      "romanization": "콘야노 유-쇼쿠와 카레-데스.",
+      "sentence_kr": "오늘 저녁은 카레예요."
+    }
+  ],
+  [
+    {
+      "word_line": "フライパン（ふらいぱん / 후라이판) : 프라이팬",
+      "sentence_jp": "フライパンで卵を焼きました。",
+      "romanization": "후라이판데 타마고오 야키마시타.",
+      "sentence_kr": "프라이팬에 계란을 부쳤어요."
+    },
+    {
+      "word_line": "読書（どくしょ / 도쿠쇼) : 독서",
+      "sentence_jp": "夜に読書をするのが習慣です。",
+      "romanization": "요루니 도쿠쇼오 스루노가 슈-칸데스.",
+      "sentence_kr": "저녁에 독서하는 게 습관이에요."
+    },
+    {
+      "word_line": "会館（かいかん / 카이칸) : 회관",
+      "sentence_jp": "市民会館でイベントがあります。",
+      "romanization": "시민 카이칸데 이벤토가 아리마스.",
+      "sentence_kr": "시민회관에서 행사가 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "反対側（はんたいがわ / 한타이가와) : 반대편",
+      "sentence_jp": "駅の反対側に店があります。",
+      "romanization": "에키노 한타이가와니 미세가 아리마스.",
+      "sentence_kr": "역 반대편에 가게가 있어요."
+    },
+    {
+      "word_line": "表現（ひょうげん / 효-겐) : 표현",
+      "sentence_jp": "この表現は少し難しいです。",
+      "romanization": "코노 효-겐와 스코시 무즈카시이데스.",
+      "sentence_kr": "이 표현은 조금 어려워요."
+    },
+    {
+      "word_line": "衣装（いしょう / 이쇼-) : 의상",
+      "sentence_jp": "舞台の衣装を準備しました。",
+      "romanization": "부타이노 이쇼-오 쥰비시마시타.",
+      "sentence_kr": "무대 의상을 준비했어요."
+    }
+  ],
+  [
+    {
+      "word_line": "炊飯器（すいはんき / 스이한키) : 전기밥솥",
+      "sentence_jp": "炊飯器のスイッチを入れていただけますか？",
+      "romanization": "스이한키노 스잇치오 이레테 이타다케마스카?",
+      "sentence_kr": "전기밥솥 스위치 좀 켜 주시겠어요?"
+    },
+    {
+      "word_line": "食塩（しょくえん / 쇼쿠엔) : 식염, 소금",
+      "sentence_jp": "食塩を少し入れてください。",
+      "romanization": "쇼쿠엔오 스코시 이레테 쿠다사이.",
+      "sentence_kr": "소금을 조금 넣어 주세요."
+    },
+    {
+      "word_line": "書店（しょてん / 쇼텐) : 서점",
+      "sentence_jp": "駅前の書店で本を買いました。",
+      "romanization": "에키마에노 쇼텐데 혼오 카이마시타.",
+      "sentence_kr": "역 앞 서점에서 책을 샀어요."
+    }
+  ],
+  [
+    {
+      "word_line": "自転車（じてんしゃ / 지텐샤) : 자전거",
+      "sentence_jp": "毎日自転車で学校に行きます。",
+      "romanization": "마이니치 지텐샤데 각코-니 이키마스.",
+      "sentence_kr": "매일 자전거로 학교에 가요."
+    },
+    {
+      "word_line": "郵便局（ゆうびんきょく / 유-빈쿄쿠) : 우체국",
+      "sentence_jp": "郵便局はどこにありますか？",
+      "romanization": "유-빈쿄쿠와 도코니 아리마스카?",
+      "sentence_kr": "우체국은 어디에 있나요?"
+    },
+    {
+      "word_line": "黒板（こくばん / 코쿠반) : 칠판",
+      "sentence_jp": "先生は黒板に字を書きました。",
+      "romanization": "센세-와 코쿠반니 지오 카키마시타.",
+      "sentence_kr": "선생님은 칠판에 글씨를 쓰셨어요."
+    }
+  ],
+  [
+    {
+      "word_line": "蒸し料理（むしりょうり / 무시료-리) : 찜요리",
+      "sentence_jp": "最近は蒸し料理にハマっています。",
+      "romanization": "사이킨와 무시료-리니 하맛테이마스.",
+      "sentence_kr": "요즘 찜요리에 빠져 있어요."
+    },
+    {
+      "word_line": "横断歩道（おうだんほどう / 오-단호도-) : 횡단보도",
+      "sentence_jp": "横断歩道では必ず止まってください。",
+      "romanization": "오-단호도-데와 카나라즈 토맛테 쿠다사이.",
+      "sentence_kr": "횡단보도에서는 반드시 멈춰 주세요."
+    },
+    {
+      "word_line": "視覚（しかく / 시카쿠) : 시각",
+      "sentence_jp": "視覚だけで判断しないでください。",
+      "romanization": "시카쿠다케데 한단 시나이데 쿠다사이.",
+      "sentence_kr": "시각만으로 판단하지 마세요."
+    }
+  ],
+  [
+    {
+      "word_line": "寝る（ねる / 네루) : 자다",
+      "sentence_jp": "昨晩は早く寝ました。",
+      "romanization": "사쿠반와 하야쿠 네마시타.",
+      "sentence_kr": "어젯밤은 일찍 잤어요."
+    },
+    {
+      "word_line": "小説家（しょうせつか / 쇼-세츠카) : 소설가",
+      "sentence_jp": "将来は小説家になりたいですか？",
+      "romanization": "쇼-라이와 쇼-세츠카니 나리타이데스카?",
+      "sentence_kr": "나중에 소설가가 되고 싶으신가요?"
+    },
+    {
+      "word_line": "劇場（げきじょう / 게키조-) : 극장",
+      "sentence_jp": "週末に劇場へ行きます。",
+      "romanization": "슈-마츠니 게키조-에 이키마스.",
+      "sentence_kr": "주말에 극장에 갈 거예요."
+    }
+  ],
+  [
+    {
+      "word_line": "ナイフ（ないふ / 나이후) : 나이프",
+      "sentence_jp": "ナイフを取っていただけますか？",
+      "romanization": "나이후오 톳테 이타다케마스카?",
+      "sentence_kr": "나이프 좀 집어 주시겠어요?"
+    },
+    {
+      "word_line": "舞台（ぶたい / 부타이) : 무대",
+      "sentence_jp": "彼女は舞台の上で歌いました。",
+      "romanization": "카노조와 부타이노 우에데 우타이마시타.",
+      "sentence_kr": "그녀는 무대 위에서 노래했어요."
+    },
+    {
+      "word_line": "退職（たいしょく / 타이쇼쿠) : 퇴직",
+      "sentence_jp": "父は去年退職しました。",
+      "romanization": "치치와 쿄넨 타이쇼쿠시마시타.",
+      "sentence_kr": "아버지는 작년에 퇴직하셨어요."
+    }
+  ],
+  [
+    {
+      "word_line": "周辺（しゅうへん / 슈-헨) : 주변",
+      "sentence_jp": "この周辺に美味しいお店はありますか？",
+      "romanization": "코노 슈-헨니 오이시이 오미세와 아리마스카?",
+      "sentence_kr": "이 근처에 맛있는 가게 있나요?"
+    },
+    {
+      "word_line": "部長（ぶちょう / 부쵸-) : 부장",
+      "sentence_jp": "部長に報告しておきましたか？",
+      "romanization": "부쵸-니 호-코쿠시테 오키마시타카?",
+      "sentence_kr": "부장님께 보고는 드렸나요?"
+    },
+    {
+      "word_line": "帽子（ぼうし / 보-시) : 모자",
+      "sentence_jp": "日差しが強いので帽子をかぶりました。",
+      "romanization": "히자시가 츠요이노데 보-시오 카부리마시타.",
+      "sentence_kr": "햇볕이 강해서 모자를 썼어요."
+    }
+  ],
+  [
+    {
+      "word_line": "洗濯機（せんたっき / 센탁키) : 세탁기",
+      "sentence_jp": "洗濯機の音が大きいですが、故障でしょうか？",
+      "romanization": "센탁키노 오토가 오오키이데스가, 코쇼-데쇼-카?",
+      "sentence_kr": "세탁기 소리가 큰데, 고장일까요?"
+    },
+    {
+      "word_line": "扉（とびら / 토비라) : 문, 문짝",
+      "sentence_jp": "その扉を開けてください。",
+      "romanization": "소노 토비라오 아케테 쿠다사이.",
+      "sentence_kr": "그 문을 열어 주세요."
+    },
+    {
+      "word_line": "バス停（ばすてい / 바스테-) : 버스 정류장",
+      "sentence_jp": "学校の前にバス停があります。",
+      "romanization": "각코-노 마에니 바스테-가 아리마스.",
+      "sentence_kr": "학교 앞에 버스 정류장이 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "朝食（ちょうしょく / 초-쇼쿠) : 아침식사",
+      "sentence_jp": "今日は朝食を抜いたので、お腹がすきました。",
+      "romanization": "쿄-와 초-쇼쿠오 누이타노데, 오나카가 스키마시타.",
+      "sentence_kr": "오늘 아침을 안 먹어서 배가 고파요."
+    },
+    {
+      "word_line": "動物園（どうぶつえん / 도-부츠엔) : 동물원",
+      "sentence_jp": "子どもたちは動物園に行きたがっています。",
+      "romanization": "코도모타치와 도-부츠엔니 이키타갓테이마스.",
+      "sentence_kr": "아이들이 동물원에 가고 싶어 해요."
+    },
+    {
+      "word_line": "安全運転（あんぜんうんてん / 안젠운텐) : 안전 운전",
+      "sentence_jp": "安全運転を心がけています。",
+      "romanization": "안젠운텐오 코코로가케테이마스.",
+      "sentence_kr": "안전 운전을 항상 염두에 두고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "綺麗（きれい / 키레-) : 예쁘다, 깨끗하다",
+      "sentence_jp": "このお花、すごく綺麗ですね。",
+      "romanization": "코노 오하나, 스고쿠 키레-데스네.",
+      "sentence_kr": "이 꽃 정말 예쁘네요."
+    },
+    {
+      "word_line": "不安（ふあん / 후안) : 불안",
+      "sentence_jp": "試験の結果が不安です。",
+      "romanization": "시켄노 켓카가 후안데스.",
+      "sentence_kr": "시험 결과가 불안해요."
+    },
+    {
+      "word_line": "暇（ひま / 히마) : 한가함, 여유",
+      "sentence_jp": "週末は暇なので映画を見ます。",
+      "romanization": "슈-마츠와 히마나노데 에-가오 미마스.",
+      "sentence_kr": "주말엔 한가해서 영화를 봐요."
+    }
+  ],
+  [
+    {
+      "word_line": "俳優（はいゆう / 하이유-) : 배우",
+      "sentence_jp": "有名な俳優に会いました。",
+      "romanization": "유-메-나 하이유-니 아이마시타.",
+      "sentence_kr": "유명한 배우를 만났어요."
+    },
+    {
+      "word_line": "忍耐（にんたい / 닌타이) : 인내",
+      "sentence_jp": "忍耐が必要な仕事です。",
+      "romanization": "닌타이가 히츠요-나 시고토데스.",
+      "sentence_kr": "인내가 필요한 일이에요."
+    },
+    {
+      "word_line": "名刺（めいし / 메-시) : 명함",
+      "sentence_jp": "名刺を交換しましょう。",
+      "romanization": "메-시오 코-칸시마쇼-.",
+      "sentence_kr": "명함을 교환합시다."
+    }
+  ],
+  [
+    {
+      "word_line": "お釣り（おつり / 오츠리) : 거스름돈",
+      "sentence_jp": "お釣りを受け取りました。",
+      "romanization": "오츠리오 우케토리마시타.",
+      "sentence_kr": "거스름돈을 받았어요."
+    },
+    {
+      "word_line": "予定（よてい / 요테-) : 일정, 예정",
+      "sentence_jp": "明日の予定を確認してもいいですか？",
+      "romanization": "아시타노 요테-오 카쿠닌시테모 이이데스카?",
+      "sentence_kr": "내일 일정을 확인해도 괜찮을까요?"
+    },
+    {
+      "word_line": "嬉しい（うれしい / 우레시이) : 기쁘다",
+      "sentence_jp": "プレゼントをもらって嬉しかったです。",
+      "romanization": "푸레젠토오 모랏테 우레시캇타데스.",
+      "sentence_kr": "선물을 받아서 기뻤어요."
+    }
+  ],
+  [
+    {
+      "word_line": "答え（こたえ / 코타에) : 대답, 답변",
+      "sentence_jp": "この問題の答えを教えていただけますか？",
+      "romanization": "코노 몬다이노 코타에오 오시에테 이타다케마스카?",
+      "sentence_kr": "이 문제의 답을 알려 주시겠어요?"
+    },
+    {
+      "word_line": "スプーン（すぷーん / 스푸-은) : 숟가락",
+      "sentence_jp": "スプーンを使って食べてください。",
+      "romanization": "스푸-은오 츠캇테 타베테 쿠다사이.",
+      "sentence_kr": "숟가락을 사용해서 드세요."
+    },
+    {
+      "word_line": "電車（でんしゃ / 덴샤) : 전철",
+      "sentence_jp": "電車で会社に通っています。",
+      "romanization": "덴샤데 카이샤니 카욧테이마스.",
+      "sentence_kr": "전철로 회사에 다니고 있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "白板（はくばん / 하쿠반) : 흰색 칠판(화이트보드)",
+      "sentence_jp": "白板に文字を書きました。",
+      "romanization": "하쿠반니 모지오 카키마시타.",
+      "sentence_kr": "화이트보드에 글씨를 썼어요."
+    },
+    {
+      "word_line": "方角（ほうがく / 호-가쿠) : 방향",
+      "sentence_jp": "すみません、新宿はどの方角ですか？",
+      "romanization": "스미마센, 신쥬쿠와 도노 호-가쿠데스카?",
+      "sentence_kr": "실례합니다, 신주쿠는 어느 방향인가요?"
+    },
+    {
+      "word_line": "昼 (ひる / 히루) : 점심, 낮",
+      "sentence_jp": "昼ごはんは何を食べましたか？",
+      "romanization": "히루고한와 나니오 타베마시타카?",
+      "sentence_kr": "점심은 무엇을 드셨나요?"
+    }
+  ],
+  [
+    {
+      "word_line": "発車（はっしゃ / 핫샤) : 출발 (차량의)",
+      "sentence_jp": "電車は5分後に発車します。",
+      "romanization": "덴샤와 고훈고니 핫샤시마스.",
+      "sentence_kr": "열차는 5분 후에 출발해요."
+    },
+    {
+      "word_line": "ホーム（ほーむ / 호-무) : 플랫폼",
+      "sentence_jp": "電車は3番ホームに到着します。",
+      "romanization": "덴샤와 산반 호-무니 토-챠쿠시마스.",
+      "sentence_kr": "전철은 3번 플랫폼에 도착합니다."
+    },
+    {
+      "word_line": "触感 (しょっかん / 쇽칸) : 촉감",
+      "sentence_jp": "この布は触感がとても柔らかいです。",
+      "romanization": "코노 누노와 쇽칸가 토테모 야와라카이데스.",
+      "sentence_kr": "이 천은 촉감이 아주 부드러워요."
+    }
+  ],
+  [
+    {
+      "word_line": "切符売り場（きっぷうりば / 킷푸우리바) : 매표소",
+      "sentence_jp": "切符売り場はどこにありますか？",
+      "romanization": "킷푸우리바와 도코니 아리마스카?",
+      "sentence_kr": "매표소는 어디에 있나요?"
+    },
+    {
+      "word_line": "改札口（かいさつぐち / 카이사츠구치) : 개찰구",
+      "sentence_jp": "改札口の前で待ち合わせましょうか？",
+      "romanization": "카이사츠구치노 마에데 마치아와세마쇼-카?",
+      "sentence_kr": "개찰구 앞에서 만나실까요?"
+    },
+    {
+      "word_line": "休日（きゅうじつ / 큐-지츠) : 휴일",
+      "sentence_jp": "休日は家でゆっくり過ごします。",
+      "romanization": "큐-지츠와 이에데 윳쿠리 스고시마스.",
+      "sentence_kr": "휴일엔 집에서 푹 쉬어요."
+    }
+  ],
+  [
+    {
+      "word_line": "カフェ（かふぇ / 카훼) : 카페",
+      "sentence_jp": "この近くに静かなカフェはありますか？",
+      "romanization": "코노 치카쿠니 시즈카나 카훼와 아리마스카?",
+      "sentence_kr": "이 근처에 조용한 카페 있나요?"
+    },
+    {
+      "word_line": "将来（しょうらい / 쇼-라이) : 장래, 미래",
+      "sentence_jp": "将来の夢は医者になることです。",
+      "romanization": "쇼-라이노 유메와 이샤니 나루 코토데스.",
+      "sentence_kr": "장래의 꿈은 의사가 되는 거예요."
+    },
+    {
+      "word_line": "隣（となり / 토나리) : 옆, 이웃",
+      "sentence_jp": "隣の人に挨拶しました。",
+      "romanization": "토나리노 히토니 아이사츠시마시타.",
+      "sentence_kr": "이웃에게 인사했어요."
+    }
+  ],
+  [
+    {
+      "word_line": "インターネット（いんたーねっと / 인타-넷토) : 인터넷",
+      "sentence_jp": "インターネットで調べました。",
+      "romanization": "인타-넷토데 시라베마시타.",
+      "sentence_kr": "인터넷으로 검색했어요."
+    },
+    {
+      "word_line": "笑顔（えがお / 에가오) : 웃는 얼굴",
+      "sentence_jp": "彼女の笑顔が大好きです。",
+      "romanization": "카노조노 에가오가 다이스키데스.",
+      "sentence_kr": "그녀의 웃는 얼굴을 정말 좋아해요."
+    },
+    {
+      "word_line": "弁当（べんとう / 벤토-) : 도시락",
+      "sentence_jp": "母の作った弁当は美味しいです。",
+      "romanization": "하하노 츠쿳타 벤토-와 오이시이데스.",
+      "sentence_kr": "엄마가 만든 도시락은 맛있어요."
+    }
+  ],
+  [
+    {
+      "word_line": "鍵（かぎ / 카기) : 열쇠",
+      "sentence_jp": "すみません、部屋の鍵を忘れました。",
+      "romanization": "스미마센, 헤야노 카기오 와스레마시타.",
+      "sentence_kr": "죄송해요, 방 열쇠를 잊어버렸어요."
+    },
+    {
+      "word_line": "買い物（かいもの / 카이모노) : 쇼핑",
+      "sentence_jp": "週末に買い物に行きました。",
+      "romanization": "슈-마츠니 카이모노니 이키마시타.",
+      "sentence_kr": "주말에 쇼핑하러 갔어요."
+    },
+    {
+      "word_line": "夜（よる / 요루) : 밤",
+      "sentence_jp": "夜になると涼しくなります。",
+      "romanization": "요루니 나루토 스즈시쿠 나리마스.",
+      "sentence_kr": "밤이 되면 선선해져요."
+    }
+  ]
+]
